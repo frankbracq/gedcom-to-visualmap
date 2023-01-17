@@ -1,0 +1,6470 @@
+0 HEAD
+1 SOUR FILAE.COM
+2 CORP FILAE
+3 ADDR 1 bis, avenue de la république
+4 POST 75011
+4 CITY Paris
+4 CTRY FRANCE
+2 VERS 2017
+1 GEDC
+2 FORM VERS 5.5
+1 CHAR UTF-8
+1 LANG FRENCH
+0 @I1@ INDI
+1 NAME Frank /Bracq/
+2 SURN Bracq
+2 GIVN Frank
+1 SEX M
+1 BIRT
+2 Plac Fourmies
+2 DATE 18 OCT 1955
+1 FAMS @F1@
+1 FAMC @F51@
+0 @I2@ INDI
+1 NAME Marie-Hélène /Arbus/
+2 SURN Arbus
+2 GIVN Marie-Hélène
+1 SEX F
+1 BIRT
+2 Plac Caudéran
+2 DATE 4 OCT 1957
+1 FAMS @F1@
+1 FAMC @F14@
+0 @I3@ INDI
+1 NAME Sidonie /Ambayrac/
+2 SURN Ambayrac
+2 GIVN Sidonie
+1 SEX F
+1 DEAT
+2 Plac Caussade
+2 DATE 05 JAN 1984
+1 BIRT
+2 Plac Mirabel
+2 DATE 26 AUG 1894
+1 FAMS @F2@
+1 FAMC @F666786733@
+0 @I4@ INDI
+1 NAME Célestin /Arbus/
+2 SURN Arbus
+2 GIVN Célestin
+1 SEX M
+1 DEAT
+2 Plac Mirabel
+2 DATE 26 JAN 1957
+1 BIRT
+2 Plac Lamothe-Capdeville
+2 DATE 01 NOV 1887
+1 CENS
+2 Plac Lamothe-Capdeville
+2 DATE 1906
+1 OCCU Maire de Mirabel 1945-1953
+2 Plac Mirabel
+1 FAMS @F2@
+1 FAMC @F13@
+0 @I5@ INDI
+1 NAME Ernestine Julie /Divry/
+2 SURN Divry
+2 GIVN Ernestine Julie
+1 SEX F
+1 BIRT
+2 Plac Glageon
+2 DATE 05 NOV 1846
+1 DEAT
+1 FAMS @F3@
+1 FAMC @F611166698@
+0 @I6@ INDI
+1 NAME Jules /Degaigne/
+2 SURN Degaigne
+2 GIVN Jules
+1 SEX M
+1 DEAT
+2 DATE 21 APR 1917
+1 BIRT
+2 Plac Glageon
+2 DATE 30 JAN 1842
+1 FAMS @F3@
+1 FAMC @F82@
+0 @I7@ INDI
+1 NAME Nicolas /Antoine/
+2 SURN Antoine
+2 GIVN Nicolas
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1621
+1 FAMS @F4@
+0 @I8@ INDI
+1 NAME Louise /Brassart/
+2 SURN Brassart
+2 GIVN Louise
+1 SEX F
+1 DEAT
+2 DATE 22 JUL 1689
+1 BIRT
+2 DATE 1 JAN 1621
+1 FAMS @F4@
+0 @I9@ INDI
+1 NAME Pierre /Antoine/
+2 SURN Antoine
+2 GIVN Pierre
+1 SEX M
+1 DEAT
+2 DATE 12 APR 1717
+1 BIRT
+2 DATE 1 OCT 1652
+1 FAMS @F5@
+1 FAMC @F4@
+0 @I10@ INDI
+1 NAME Catherine /Piette/
+2 SURN Piette
+2 GIVN Catherine
+1 SEX F
+1 DEAT
+2 DATE 14 FEB 1694
+1 BIRT
+2 DATE 1 JAN 1652
+1 FAMS @F5@
+0 @I11@ INDI
+1 NAME Jean /Antoine/
+2 SURN Antoine
+2 GIVN Jean
+1 SEX M
+1 DEAT
+2 DATE 13 FEB 1743
+1 BIRT
+2 DATE 28 AUG 1672
+1 FAMS @F6@
+0 @I12@ INDI
+1 NAME Marie-Magdelaine /Huet/
+2 SURN Huet
+2 GIVN Marie-Magdelaine
+1 SEX F
+1 BIRT
+2 DATE 18 FEB 1684
+1 FAMS @F6@
+0 @I13@ INDI
+1 NAME Pierre /Antoine/
+2 SURN Antoine
+2 GIVN Pierre
+1 SEX M
+1 BIRT
+2 DATE 2 OCT 1682
+1 FAMS @F7@
+1 FAMC @F5@
+0 @I14@ INDI
+1 NAME Anne /Le Roy/
+2 SURN Le Roy
+2 GIVN Anne
+1 SEX F
+1 DEAT
+2 DATE 1 JAN 1754
+1 BIRT
+2 DATE 12 FEB 1684
+1 FAMS @F7@
+0 @I15@ INDI
+1 NAME Marie-Ursule /Antoine/
+2 SURN Antoine
+2 GIVN Marie-Ursule
+1 SEX F
+1 DEAT
+2 Plac Fourmies
+2 DATE 04 SEP 1782
+1 BIRT
+2 Plac Fourmies
+2 DATE 22 FEB 1701
+1 FAMS @F8@
+1 FAMC @F641759375@
+0 @I16@ INDI
+1 NAME François /Lermigeaux/
+2 SURN Lermigeaux
+2 GIVN François
+1 SEX M
+1 DEAT
+2 DATE 1 JAN 1755
+1 BIRT
+2 DATE 1 JAN 1695
+1 FAMS @F8@
+0 @I17@ INDI
+1 NAME Nicolas /Antoine/
+2 SURN Antoine
+2 GIVN Nicolas
+1 SEX M
+1 DEAT
+2 DATE 1 AUG 1806
+1 BIRT
+2 DATE 18 JUL 1715
+1 FAMS @F9@
+1 FAMC @F7@
+0 @I18@ INDI
+1 NAME Marie-Louise /Ferrant/
+2 SURN Ferrant
+2 GIVN Marie-Louise
+1 SEX F
+1 FAMS @F9@
+0 @I19@ INDI
+1 NAME Catherine /Antoine/
+2 SURN Antoine
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 DATE 17 JAN 1716
+1 DEAT
+2 DATE 12 APR 1780
+1 FAMS @F10@
+1 FAMC @F6@
+0 @I20@ INDI
+1 NAME Jean-Baptiste /Bouret/
+2 SURN Bouret
+2 GIVN Jean-Baptiste
+1 SEX M
+1 BIRT
+2 Plac Fourmies
+2 DATE 10 FEB 1709
+1 DEAT
+2 Plac Fourmies
+2 DATE 06 APR 1774
+1 OCCU Laboureur
+1 FAMS @F10@
+1 FAMC @F40@
+0 @I21@ INDI
+1 NAME Marie-Thérèse /Antoine/
+2 SURN Antoine
+2 GIVN Marie-Thérèse
+1 SEX F
+1 BIRT
+2 DATE 18 JUL 1751
+1 DEAT
+2 DATE 1 AUG 1812
+1 FAMS @F11@
+1 FAMC @F9@
+0 @I22@ INDI
+1 NAME André /Bouret/
+2 SURN Bouret
+2 GIVN André
+1 SEX M
+1 BIRT
+2 Plac Fourmies
+2 DATE 17 APR 1745
+1 DEAT
+2 DATE 6 MAY 1809
+1 OCCU Laboureur
+1 FAMS @F11@
+1 FAMC @F10@
+0 @I24@ INDI
+1 NAME Jean /Arbus/
+2 SURN Arbus
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 Plac Bruniquel
+2 DATE 18 MAR 1836
+1 DEAT
+2 Plac Lamothe-Capdeville
+2 DATE 31 JUL 1887
+1 OCCU Tisserand
+1 FAMS @F13@
+1 FAMS @F667483750@
+1 FAMC @F667198687@
+0 @I26@ INDI
+1 NAME Raymond /Arbus/
+2 SURN Arbus
+2 GIVN Raymond
+1 SEX M
+1 BIRT
+2 Plac Mirabel
+2 DATE 17 OCT 1913
+1 DEAT
+2 Plac Limoges
+2 DATE 21 JUL 1969
+1 EVEN Distinction - Personne nommée ou promue dans l'Ordre de la Légion d'honneur
+1 FAMS @F14@
+1 FAMC @F2@
+0 @I27@ INDI
+1 NAME Madeleine /Ravaux/
+2 SURN Ravaux
+2 GIVN Madeleine
+1 SEX F
+1 BIRT
+2 Plac Paris
+2 DATE 11 AUG 1921
+1 DEAT
+2 Plac Boulogne-Billancourt
+2 DATE 24 JAN 2021
+1 FAMS @F14@
+1 FAMC @F70@
+0 @I28@ INDI
+1 NAME Joseph Urbain /Balaÿ/
+2 SURN Balaÿ
+2 GIVN Joseph Urbain
+1 SEX M
+1 BIRT
+2 Plac St-Étienne
+2 DATE 24 FEB 1843
+1 DEAT
+2 Plac St-Étienne
+2 DATE 16 NOV 1897
+1 FAMS @F15@
+1 FAMC @F666758642@
+0 @I29@ INDI
+1 NAME Marie /Borel/
+2 SURN Borel
+2 GIVN Marie
+1 SEX F
+1 BIRT
+2 Plac Loire
+2 DATE 1842
+1 DEAT
+2 Plac St-Étienne
+2 DATE 18 MAR 1906
+1 FAMS @F15@
+0 @I30@ INDI
+1 NAME Magdelaine /Balaÿ/
+2 SURN Balaÿ
+2 GIVN Magdelaine
+1 SEX F
+1 BIRT
+2 Plac St-Étienne
+2 DATE 29 MAY 1869
+1 DEAT
+2 DATE 17 FEB 1936
+1 FAMS @F69@
+1 FAMS @F16@
+1 FAMC @F15@
+0 @I31@ INDI
+1 NAME Hugues /Basseguy/
+2 SURN Basseguy
+2 GIVN Hugues
+1 SEX M
+1 BIRT
+2 DATE 4 JAN 1951
+1 FAMS @F17@
+0 @I32@ INDI
+1 NAME Laurence /Bracq/
+2 SURN Bracq
+2 GIVN Laurence
+1 SEX F
+1 BIRT
+2 DATE 16 OCT 1953
+1 FAMS @F17@
+1 FAMC @F51@
+0 @I33@ INDI
+1 NAME Stéphanie /Basseguy/
+2 SURN Basseguy
+2 GIVN Stéphanie
+1 SEX F
+1 BIRT
+2 DATE 5 MAR 1979
+1 FAMS @F18@
+1 FAMC @F17@
+0 @I34@ INDI
+1 NAME Stéphane /Rodriguez/
+2 SURN Rodriguez
+2 GIVN Stéphane
+1 SEX M
+1 FAMS @F18@
+0 @I35@ INDI
+1 NAME Dimitri /Basseguy/
+2 SURN Basseguy
+2 GIVN Dimitri
+1 SEX M
+1 BIRT
+2 DATE 2 APR 1981
+1 FAMS @F19@
+1 FAMC @F17@
+0 @I36@ INDI
+1 NAME Sophie /Muller/
+2 SURN Muller
+2 GIVN Sophie
+1 SEX F
+1 FAMS @F19@
+0 @I37@ INDI
+1 NAME Thomas /Basseguy/
+2 SURN Basseguy
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 23 JUL 1985
+1 FAMS @F20@
+1 FAMC @F17@
+0 @I38@ INDI
+1 NAME Margaux /Heindrickx/
+2 SURN Heindrickx
+2 GIVN Margaux
+1 SEX F
+1 FAMS @F20@
+0 @I39@ INDI
+1 NAME Lisy /Basseguy-Muller/
+2 SURN Basseguy-Muller
+2 GIVN Lisy
+1 SEX F
+1 BIRT
+2 DATE 21 APR 2014
+1 FAMC @F19@
+0 @I40@ INDI
+1 NAME Marie /Basselart/
+2 SURN Basselart
+2 GIVN Marie
+1 SEX F
+1 BIRT
+2 DATE 3 MAR 1725
+1 DEAT
+2 DATE 5 MAR 1805
+1 FAMS @F22@
+0 @I41@ INDI
+1 NAME Simon /Divry/
+2 SURN Divry
+2 GIVN Simon
+1 SEX M
+1 BIRT
+2 DATE 29 SEP 1720
+1 DEAT
+2 DATE 19 SEP 1790
+1 FAMS @F22@
+1 FAMC @F23@
+0 @I42@ INDI
+1 NAME Marie /Bastien/
+2 SURN Bastien
+2 GIVN Marie
+1 SEX F
+1 BIRT
+2 DATE 29 AUG 1689
+1 DEAT
+2 DATE 18 MAY 1758
+1 FAMS @F23@
+0 @I43@ INDI
+1 NAME Nicolas /Divry/
+2 SURN Divry
+2 GIVN Nicolas
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1678
+1 DEAT
+2 DATE 1 JAN 1763
+1 FAMS @F23@
+1 FAMC @F88@
+0 @I44@ INDI
+1 NAME Jean /Bertaux/
+2 SURN Bertaux
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1616
+1 DEAT
+2 DATE 27 MAY 1690
+1 FAMS @F24@
+0 @I45@ INDI
+1 NAME Jeanne /Pame/
+2 SURN Pame
+2 GIVN Jeanne
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1616
+1 DEAT
+2 DATE 27 AUG 1688
+1 FAMS @F24@
+0 @I46@ INDI
+1 NAME Martin /Bertaux/
+2 SURN Bertaux
+2 GIVN Martin
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1640
+1 DEAT
+2 DATE 20 JUL 1695
+1 FAMS @F25@
+1 FAMC @F24@
+0 @I47@ INDI
+1 NAME Jeanne /Maronet/
+2 SURN Maronet
+2 GIVN Jeanne
+1 SEX F
+1 BIRT
+2 DATE 29 AUG 1649
+1 DEAT
+2 DATE 10 JUN 1678
+1 FAMS @F25@
+0 @I48@ INDI
+1 NAME Anne /Bertaux/
+2 SURN Bertaux
+2 GIVN Anne
+1 SEX F
+1 BIRT
+2 DATE 30 SEP 1676
+1 DEAT
+2 DATE 14 JAN 1741
+1 FAMS @F26@
+1 FAMC @F25@
+0 @I49@ INDI
+1 NAME Robert /Carniaux/
+2 SURN Carniaux
+2 GIVN Robert
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1666
+1 DEAT
+2 DATE 8 AUG 1742
+1 FAMS @F26@
+0 @I50@ INDI
+1 NAME Bélisaire /Bertaux/
+2 SURN Bertaux
+2 GIVN Bélisaire
+1 SEX M
+1 BIRT
+2 Plac Fourmies
+2 DATE 31 JUL 1831
+1 DEAT
+2 Plac Fourmies
+2 DATE 1 OCT 1890
+1 FAMS @F27@
+1 FAMC @F179@
+0 @I51@ INDI
+1 NAME Séraphine /Proisy/
+2 SURN Proisy
+2 GIVN Séraphine
+1 SEX F
+1 BIRT
+2 Plac Hauts-De-France
+2 DATE 26 FEB 1831
+1 CENS
+2 Plac Fourmies
+2 DATE 1906
+1 FAMS @F27@
+1 FAMC @F111@
+0 @I52@ INDI
+1 NAME Jeanne /Bertrand/
+2 SURN Bertrand
+2 GIVN Jeanne
+1 SEX F
+0 @I53@ INDI
+1 NAME Marie /Bertrand/
+2 SURN Bertrand
+2 GIVN Marie
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1625
+1 DEAT
+2 DATE 20 JAN 1700
+1 FAMS @F29@
+0 @I54@ INDI
+1 NAME Pierre /Le Roy/
+2 SURN Le Roy
+2 GIVN Pierre
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1620
+1 DEAT
+2 DATE 26 JAN 1681
+1 FAMS @F29@
+0 @I55@ INDI
+1 NAME Anne Marie /Bertrand/
+2 SURN Bertrand
+2 GIVN Anne Marie
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1690
+1 DEAT
+2 DATE 17 FEB 1740
+1 FAMS @F30@
+0 @I56@ INDI
+1 NAME Louis /Degaigne/
+2 SURN Degaigne
+2 GIVN Louis
+1 SEX M
+1 BIRT
+2 DATE 4 JUL 1687
+1 DEAT
+2 DATE 19 FEB 1770
+1 FAMS @F30@
+0 @I57@ INDI
+1 NAME Jacques /Bioche/
+2 SURN Bioche
+2 GIVN Jacques
+1 SEX M
+1 BIRT
+2 DATE 29 AUG 1920
+1 DEAT
+2 DATE 30 JUN 1982
+1 FAMS @F31@
+0 @I58@ INDI
+1 NAME Françoise /Bouret/
+2 SURN Bouret
+2 GIVN Françoise
+1 SEX F
+1 BIRT
+2 DATE 2 FEB 1923
+1 DEAT
+2 DATE 30 JUN 1982
+1 FAMS @F31@
+1 FAMC @F46@
+0 @I59@ INDI
+1 NAME Christian /Bioche/
+2 SURN Bioche
+2 GIVN Christian
+1 SEX M
+1 BIRT
+2 DATE 31 OCT 1946
+1 DEAT
+2 DATE 5 AUG 2009
+1 FAMC @F31@
+0 @I60@ INDI
+1 NAME Martin /Boudart/
+2 SURN Boudart
+2 GIVN Martin
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1726
+1 DEAT
+2 DATE 28 JAN 1803
+1 FAMS @F33@
+0 @I61@ INDI
+1 NAME Marie-Françoise /Rousseau/
+2 SURN Rousseau
+2 GIVN Marie-Françoise
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1737
+1 DEAT
+2 DATE 1 JAN 1803
+1 FAMS @F33@
+0 @I62@ INDI
+1 NAME Eugénie /Boudart/
+2 SURN Boudart
+2 GIVN Eugénie
+1 SEX F
+1 BIRT
+2 DATE 1 AUG 1779
+1 DEAT
+2 DATE 23 JUL 1865
+1 FAMS @F34@
+1 FAMC @F33@
+0 @I63@ INDI
+1 NAME Jean-Baptiste /Degaigne/
+2 SURN Degaigne
+2 GIVN Jean-Baptiste
+1 SEX M
+1 BIRT
+2 DATE 19 AUG 1766
+1 DEAT
+2 DATE 1 JUL 1865
+1 BAPM
+2 Plac Glageon
+2 DATE 20 AUG 1766
+1 FAMS @F34@
+1 FAMC @F81@
+0 @I64@ INDI
+1 NAME Anne-Marie /Bouret/
+2 SURN Bouret
+2 GIVN Anne-Marie
+1 SEX F
+1 BIRT
+2 DATE 27 NOV 1932
+1 FAMS @F35@
+1 FAMC @F46@
+0 @I65@ INDI
+1 NAME Michel /Jenart/
+2 SURN Jenart
+2 GIVN Michel
+1 SEX M
+1 BIRT
+2 DATE 15 NOV 1924
+1 DEAT
+2 DATE 2 JUN 1986
+1 FAMS @F35@
+0 @I66@ INDI
+1 NAME Brigitte /Bouret/
+2 SURN Bouret
+2 GIVN Brigitte
+1 SEX F
+1 BIRT
+2 DATE 13 DEC 1941
+1 FAMS @F36@
+1 FAMC @F46@
+0 @I67@ INDI
+1 NAME Yves /Charmet/
+2 SURN Charmet
+2 GIVN Yves
+1 SEX M
+1 FAMS @F36@
+0 @I68@ INDI
+1 NAME Edith /Bouret/
+2 SURN Bouret
+2 GIVN Edith
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1940
+1 FAMS @F37@
+1 FAMC @F46@
+0 @I69@ INDI
+1 NAME Jean-Louis /Jutel/
+2 SURN Jutel
+2 GIVN Jean-Louis
+1 SEX M
+1 FAMS @F37@
+0 @I70@ INDI
+1 NAME Jean /Bouret/
+2 SURN Bouret
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1606
+1 FAMS @F38@
+0 @I71@ INDI
+1 NAME Jean /Bouret/
+2 SURN Bouret
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 Plac Fourmies
+2 DATE ABT 1636
+1 DEAT
+2 Plac Fourmies
+2 DATE 10 JUN 1684
+1 FAMS @F39@
+1 FAMC @F38@
+0 @I72@ INDI
+1 NAME Jeanne /Lermigeau/
+2 SURN Lermigeau
+2 GIVN Jeanne
+1 SEX F
+1 BIRT
+2 Plac Fourmies
+2 DATE ABT 1641
+1 DEAT
+2 Plac Fourmies
+1 DEAT
+2 Plac Fourmies
+2 DATE 14 APR 1701
+1 FAMS @F39@
+1 FAMC @F641759030@
+0 @I73@ INDI
+1 NAME François /Bouret/
+2 SURN Bouret
+2 GIVN François
+1 SEX M
+1 BIRT
+2 Plac Fourmies
+2 DATE 12 MAR 1662
+1 DEAT
+2 Plac Fourmies
+2 DATE 05 MAY 1740
+1 OCCU Laboureur
+1 FAMS @F40@
+1 FAMC @F39@
+0 @I74@ INDI
+1 NAME Anne /Carniaux/
+2 SURN Carniaux
+2 GIVN Anne
+1 SEX F
+1 BIRT
+2 DATE 9 NOV 1663
+1 DEAT
+2 DATE 20 AUG 1728
+1 FAMS @F40@
+1 FAMC @F65@
+0 @I75@ INDI
+1 NAME Marie-Catherine /Bouret/
+2 SURN Bouret
+2 GIVN Marie-Catherine
+1 SEX F
+1 BIRT
+2 DATE 30 APR 1742
+1 DEAT
+2 DATE 26 JAN 1803
+1 FAMS @F41@
+1 FAMC @F10@
+0 @I76@ INDI
+1 NAME Jean-François /Lermigeaux/
+2 SURN Lermigeaux
+2 GIVN Jean-François
+1 SEX M
+1 BIRT
+2 Plac Fourmies
+2 DATE 29 MAR 1738
+1 DEAT
+2 DATE 8 SEP 1792
+1 FAMS @F41@
+1 FAMC @F8@
+0 @I77@ INDI
+1 NAME Vincent /Bouret/
+2 SURN Bouret
+2 GIVN Vincent
+1 SEX M
+1 BIRT
+2 Plac Fourmies
+2 DATE 30 OCT 1791
+1 DEAT
+2 DATE 19 FEB 1837
+1 OCCU Propriétaire
+1 FAMS @F42@
+1 FAMC @F11@
+0 @I78@ INDI
+1 NAME Marie /Gravez/
+2 SURN Gravez
+2 GIVN Marie
+1 SEX F
+1 BIRT
+2 DATE 29 SEP 1791
+1 DEAT
+2 DATE 5 JUL 1880
+1 FAMS @F42@
+1 FAMC @F80@
+0 @I79@ INDI
+1 NAME Vincent /Bouret/
+2 SURN Bouret
+2 GIVN Vincent
+1 SEX M
+1 DEAT
+2 Plac Nord
+2 DATE 26 JUL 1905
+1 BIRT
+2 Plac Fourmies
+2 DATE 17 FEB 1819
+1 OCCU Propriétaire
+1 FAMS @F43@
+1 FAMC @F42@
+0 @I80@ INDI
+1 NAME Aurore /Dromeray/
+2 SURN Dromeray
+2 GIVN Aurore
+1 SEX F
+1 DEAT
+2 DATE 14 MAR 1871
+1 BIRT
+2 DATE 11 OCT 1817
+1 FAMS @F43@
+1 FAMC @F103@
+0 @I81@ INDI
+1 NAME Vincent /Bouret/
+2 SURN Bouret
+2 GIVN Vincent
+1 SEX M
+1 DEAT
+2 Plac Fourmies
+2 DATE 28 SEP 1905
+1 BIRT
+2 Plac Fourmies
+2 DATE 10 MAR 1845
+1 OCCU Propriétaire
+1 FAMS @F44@
+1 FAMC @F43@
+0 @I82@ INDI
+1 NAME Célina /Proisy/
+2 SURN Proisy
+2 GIVN Célina
+1 SEX F
+1 DEAT
+2 DATE 26 APR 1906
+1 BIRT
+2 DATE 20 SEP 1839
+1 FAMS @F44@
+1 FAMC @F111@
+0 @I83@ INDI
+1 NAME Albert /Bouret/
+2 SURN Bouret
+2 GIVN Albert
+1 SEX M
+1 DEAT
+2 Plac Bergerac
+2 DATE 4 MAR 1945
+1 BIRT
+2 Plac Fourmies
+2 DATE 13 JUL 1867
+1 OCCU Filateur Bouret- Proisy et Cie
+2 Plac Fourmies
+1 CENS
+2 Plac Fourmies
+2 DATE 1906
+1 FAMS @F45@
+1 FAMC @F44@
+0 @I84@ INDI
+1 NAME Léonie /Daquet/
+2 SURN Daquet
+2 GIVN Léonie
+1 SEX F
+1 DEAT
+2 DATE 29 OCT 1933
+1 BIRT
+2 Plac St-Aubin
+2 DATE 09 APR 1874
+1 FAMS @F45@
+1 FAMC @F79@
+0 @I85@ INDI
+1 NAME André /Bouret/
+2 SURN Bouret
+2 GIVN André
+1 SEX M
+1 DEAT
+2 Plac Bergerac
+2 DATE 6 MAR 1985
+1 BIRT
+2 Plac St-Aubin
+2 DATE 27 AUG 1894
+1 CENS
+2 Plac Fourmies
+2 DATE 1906
+1 FAMS @F46@
+1 FAMC @F45@
+0 @I86@ INDI
+1 NAME Hélène /Degaigne/
+2 SURN Degaigne
+2 GIVN Hélène
+1 SEX F
+1 DEAT
+2 Plac Bergerac
+2 DATE 01 NOV 1980
+1 BIRT
+2 Plac Avesnes /S Helpe
+2 DATE 28 DEC 1902
+1 FAMS @F46@
+1 FAMC @F83@
+0 @I87@ INDI
+1 NAME Thérèse /Bouret/
+2 SURN Bouret
+2 GIVN Thérèse
+1 SEX F
+1 DEAT
+2 DATE 26 FEB 1967
+1 BIRT
+2 Plac Fourmies
+2 DATE 21 JAN 1896
+1 FAMS @F47@
+1 FAMC @F45@
+0 @I88@ INDI
+1 NAME Théophile /Divry/
+2 SURN Divry
+2 GIVN Théophile
+1 SEX M
+1 DEAT
+2 DATE 7 FEB 1961
+1 BIRT
+2 DATE 28 JUN 1890
+1 FAMS @F47@
+1 FAMC @F95@
+0 @I89@ INDI
+1 NAME Isabelle /Bouret/
+2 SURN Bouret
+2 GIVN Isabelle
+1 SEX F
+1 DEAT
+2 DATE 1 NOV 2017
+1 BIRT
+2 DATE 9 MAY 1924
+1 FAMS @F48@
+1 FAMC @F46@
+0 @I90@ INDI
+1 NAME Edmond /Droulers/
+2 SURN Droulers
+2 GIVN Edmond
+1 SEX M
+1 DEAT
+2 DATE 27 SEP 2007
+1 BIRT
+2 DATE 15 APR 1916
+1 FAMS @F48@
+1 FAMC @F170@
+0 @I91@ INDI
+1 NAME Vincent /Bouret/
+2 SURN Bouret
+2 GIVN Vincent
+1 SEX M
+1 DEAT
+2 DATE 12 MAR 1982
+1 BIRT
+2 DATE 26 JUN 1925
+1 FAMC @F46@
+0 @I92@ INDI
+1 NAME Christiane /Bouret/
+2 SURN Bouret
+2 GIVN Christiane
+1 SEX F
+1 DEAT
+2 DATE 8 SEP 2015
+1 BIRT
+2 DATE 7 SEP 1926
+1 FAMS @F50@
+1 FAMC @F46@
+0 @I93@ INDI
+1 NAME Antoine /Giard/
+2 SURN Giard
+2 GIVN Antoine
+1 SEX M
+1 DEAT
+2 DATE 15 NOV 1990
+1 BIRT
+2 DATE 26 APR 1922
+1 FAMS @F50@
+0 @I94@ INDI
+1 NAME Monique /Bouret/
+2 SURN Bouret
+2 GIVN Monique
+1 SEX F
+1 BIRT
+2 DATE 20 JUL 1929
+1 FAMS @F51@
+1 FAMC @F46@
+0 @I95@ INDI
+1 NAME Maurice /Bracq/
+2 SURN Bracq
+2 GIVN Maurice
+1 SEX M
+1 DEAT
+2 Plac Huisseau /S Mauves
+2 DATE 28 NOV 2014
+1 BIRT
+2 DATE 23 MAR 1924
+1 FAMS @F51@
+1 FAMC @F55@
+0 @I96@ INDI
+1 NAME Colette /Bouret/
+2 SURN Bouret
+2 GIVN Colette
+1 SEX F
+1 DEAT
+2 DATE 12 APR 2020
+1 BIRT
+2 DATE 24 FEB 1935
+1 FAMC @F46@
+0 @I97@ INDI
+1 NAME Charles /Bracq/
+2 SURN Bracq
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 Plac Caudry
+2 DATE 09 JUN 1825
+1 DEAT
+2 Plac Caudry
+2 DATE 07 JUN 1884
+1 OCCU Débitant de boissons
+2 Plac Caudry
+1 FAMS @F53@
+1 FAMC @F167@
+0 @I98@ INDI
+1 NAME Virginie /Quenson/
+2 SURN Quenson
+2 GIVN Virginie
+1 SEX F
+1 BIRT
+2 Plac Caudry
+2 DATE 24 JUN 1829
+1 DEAT
+2 Plac Caudry
+2 DATE 21 SEP 1880
+1 FAMS @F53@
+1 FAMC @F182@
+0 @I99@ INDI
+1 NAME Edmond /Bracq/
+2 SURN Bracq
+2 GIVN Edmond
+1 SEX M
+1 DEAT
+2 DATE 18 JAN 1944
+1 BIRT
+2 Plac Caudry
+2 DATE 06 OCT 1863
+1 CENS
+2 Plac Caudry
+2 DATE 1906
+1 FAMS @F54@
+1 FAMC @F53@
+0 @I100@ INDI
+1 NAME Alcidie Alzire /Payen/
+2 SURN Payen
+2 GIVN Alcidie Alzire
+1 SEX F
+1 DEAT
+2 DATE 28 OCT 1958
+1 BIRT
+2 Plac Caudry
+2 DATE 4 OCT 1864
+1 FAMS @F54@
+1 FAMC @F105@
+0 @I101@ INDI
+1 NAME Léon /Bracq/
+2 SURN Bracq
+2 GIVN Léon
+1 SEX M
+1 DEAT
+2 Plac Fourmies
+2 DATE 28 FEB 1975
+1 BIRT
+2 Plac Caudry
+2 DATE 01 MAY 1891
+1 CENS
+2 Plac Caudry
+2 DATE 1906
+1 FAMS @F55@
+1 FAMC @F54@
+0 @I102@ INDI
+1 NAME Rose /Lelong/
+2 SURN Lelong
+2 GIVN Rose
+1 SEX F
+1 DEAT
+2 Plac Fourmies
+2 DATE 24 OCT 1955
+1 BIRT
+2 Plac Fourmies
+2 DATE 10 MAY 1901
+1 CENS
+2 Plac Fourmies
+2 DATE 1906
+1 FAMS @F55@
+1 FAMC @F116@
+0 @I103@ INDI
+1 NAME Christine /Bracq/
+2 SURN Bracq
+2 GIVN Christine
+1 SEX F
+1 BIRT
+2 DATE 23 JAN 1957
+1 FAMS @F56@
+1 FAMC @F51@
+0 @I104@ INDI
+1 NAME François /Leyravaud/
+2 SURN Leyravaud
+2 GIVN François
+1 SEX M
+1 BIRT
+2 DATE 18 MAY 1955
+1 FAMS @F56@
+1 FAMC @F186@
+0 @I105@ INDI
+1 NAME Vincent /Bracq/
+2 SURN Bracq
+2 GIVN Vincent
+1 SEX M
+1 BIRT
+2 DATE 24 APR 1960
+1 FAMS @F57@
+1 FAMC @F51@
+0 @I106@ INDI
+1 NAME Nathalie /Deleau/
+2 SURN Deleau
+2 GIVN Nathalie
+1 SEX F
+1 BIRT
+2 DATE 13 JAN 1964
+1 FAMS @F57@
+1 FAMC @F87@
+0 @I107@ INDI
+1 NAME Nathalie /Bracq/
+2 SURN Bracq
+2 GIVN Nathalie
+1 SEX F
+1 BIRT
+2 DATE 11 JAN 1962
+1 FAMS @F58@
+1 FAMC @F51@
+0 @I108@ INDI
+1 NAME Yann /Tardif/
+2 SURN Tardif
+2 GIVN Yann
+1 SEX M
+1 BIRT
+2 DATE 3 FEB 1961
+1 FAMS @F58@
+1 FAMC @F129@
+0 @I109@ INDI
+1 NAME David /Bracq/
+2 SURN Bracq
+2 GIVN David
+1 SEX M
+1 BIRT
+2 Plac Paris
+2 DATE 29 AUG 1989
+1 FAMC @F1@
+0 @I110@ INDI
+1 NAME Quentin /Bracq/
+2 SURN Bracq
+2 GIVN Quentin
+1 SEX M
+1 BIRT
+2 DATE 17 SEP 1989
+1 FAMC @F57@
+0 @I111@ INDI
+1 NAME Mathilde /Bracq/
+2 SURN Bracq
+2 GIVN Mathilde
+1 SEX F
+1 BIRT
+2 DATE 23 SEP 1991
+1 FAMS @F61@
+1 FAMC @F57@
+0 @I112@ INDI
+1 NAME Omar /Ocasio-Cruz/
+2 SURN Ocasio-Cruz
+2 GIVN Omar
+1 SEX M
+1 BIRT
+2 DATE 18 NOV 1994
+1 FAMS @F61@
+0 @I113@ INDI
+1 NAME Julien /Bracq/
+2 SURN Bracq
+2 GIVN Julien
+1 SEX M
+1 BIRT
+2 Plac Paris
+2 DATE 2 JAN 1992
+1 FAMC @F1@
+0 @I114@ INDI
+1 NAME Alice /Bracq/
+2 SURN Bracq
+2 GIVN Alice
+1 SEX F
+1 BIRT
+2 DATE 28 JUL 1999
+1 FAMC @F57@
+0 @I115@ INDI
+1 NAME Madeleine /Brissart/
+2 SURN Brissart
+2 GIVN Madeleine
+1 SEX F
+1 DEAT
+2 DATE 12 JUN 1729
+1 BIRT
+2 DATE 1 JAN 1649
+1 FAMS @F64@
+0 @I116@ INDI
+1 NAME Pierre /Gochon/
+2 SURN Gochon
+2 GIVN Pierre
+1 SEX M
+1 DEAT
+2 DATE 13 MAY 1706
+1 BIRT
+2 DATE 1 JAN 1641
+1 FAMS @F64@
+1 FAMC @F112@
+0 @I117@ INDI
+1 NAME Jean /Carniaux/
+2 SURN Carniaux
+2 GIVN Jean
+1 SEX M
+1 DEAT
+2 DATE 10 SEP 1676
+1 BIRT
+2 DATE 1 JAN 1635
+1 FAMS @F65@
+0 @I118@ INDI
+1 NAME Catherine /Demanet/
+2 SURN Demanet
+2 GIVN Catherine
+1 SEX F
+1 DEAT
+2 DATE 31 JAN 1696
+1 BIRT
+2 DATE 1 JAN 1635
+1 FAMS @F65@
+0 @I119@ INDI
+1 NAME Valentin /Carniaux/
+2 SURN Carniaux
+2 GIVN Valentin
+1 SEX M
+1 DEAT
+2 DATE 18 OCT 1793
+1 BIRT
+2 DATE 3 JUL 1707
+1 FAMS @F66@
+1 FAMC @F26@
+0 @I120@ INDI
+1 NAME Marie-Thérèse /Clement/
+2 SURN Clement
+2 GIVN Marie-Thérèse
+1 SEX F
+1 DEAT
+2 DATE 30 JUN 1783
+1 BIRT
+2 DATE 20 MAR 1707
+1 FAMS @F66@
+1 FAMC @F74@
+0 @I121@ INDI
+1 NAME Hubert /Carniaux/
+2 SURN Carniaux
+2 GIVN Hubert
+1 SEX M
+1 BIRT
+2 DATE 13 MAY 1744
+1 FAMS @F67@
+1 FAMC @F66@
+0 @I122@ INDI
+1 NAME Marie-Anne /Pietton/
+2 SURN Pietton
+2 GIVN Marie-Anne
+1 SEX F
+1 DEAT
+2 DATE 1 AUG 1809
+1 BIRT
+2 DATE 20 OCT 1747
+1 FAMS @F67@
+0 @I123@ INDI
+1 NAME Marie-Anne /Carniaux/
+2 SURN Carniaux
+2 GIVN Marie-Anne
+1 SEX F
+1 DEAT
+2 DATE 26 FEB 1810
+1 BIRT
+2 DATE 5 MAY 1783
+1 FAMS @F68@
+1 FAMC @F67@
+0 @I124@ INDI
+1 NAME Antoine /Proisy/
+2 SURN Proisy
+2 GIVN Antoine
+1 SEX M
+1 DEAT
+2 DATE 23 SEP 1836
+1 BIRT
+2 DATE 8 APR 1770
+1 OCCU Tourneur en bois
+1 FAMS @F68@
+1 FAMC @F176@
+0 @I125@ INDI
+1 NAME Louis /Charavay/
+2 SURN Charavay
+2 GIVN Louis
+1 SEX M
+1 DEAT
+2 Plac Paris
+2 DATE 14 JUN 1931
+1 BIRT
+2 Plac St-Étienne
+2 DATE 23 DEC 1857
+1 FAMS @F69@
+1 FAMC @F666804813@
+0 @I126@ INDI
+1 NAME Victorine Joséphine /Charavay/
+2 SURN Charavay
+2 GIVN Victorine Joséphine
+1 SEX F
+1 DEAT
+2 Plac Paris
+2 DATE 14 DEC 1945
+1 BIRT
+2 Plac Paris
+2 DATE 10 OCT 1894
+1 FAMS @F70@
+1 FAMC @F69@
+0 @I127@ INDI
+1 NAME Charles /Ravaux/
+2 SURN Ravaux
+2 GIVN Charles
+1 SEX M
+1 DEAT
+2 Plac Île-De-France
+2 DATE 30 APR 1952
+1 BIRT
+2 DATE 30 JUN 1887
+1 FAMS @F70@
+1 FAMC @F126@
+0 @I128@ INDI
+1 NAME Jérôme /Charmet/
+2 SURN Charmet
+2 GIVN Jérôme
+1 SEX M
+1 DEAT
+2 DATE 24 JUL 2007
+1 BIRT
+2 DATE 7 SEP 1962
+1 FAMS @F71@
+1 FAMC @F36@
+0 @I129@ INDI
+1 NAME Xavier Joseph /Clavon/
+2 SURN Clavon
+2 GIVN Xavier Joseph
+1 SEX M
+1 DEAT
+2 Plac Fourmies
+2 DATE 16 NOV 1885
+1 BIRT
+2 Plac Étrœungt
+2 DATE 19 MAY 1800
+1 OCCU Notaire & filateur
+1 FAMS @F72@
+1 FAMC @F611173803@
+0 @I130@ INDI
+1 NAME Marie /Guerit/
+2 SURN Guerit
+2 GIVN Marie
+1 SEX F
+1 DEAT
+2 DATE 15 JUL 1875
+1 BIRT
+2 Plac Féron
+2 DATE 30 JUN 1806
+1 FAMS @F72@
+1 FAMC @F642676803@
+0 @I131@ INDI
+1 NAME Zélie Louise /Clavon/
+2 SURN Clavon
+2 GIVN Zélie Louise
+1 SEX F
+1 DEAT
+2 DATE 7 FEB 1876
+1 BIRT
+2 DATE 21 DEC 1833
+1 FAMS @F73@
+1 FAMC @F72@
+0 @I132@ INDI
+1 NAME Vital /Hermant/
+2 SURN Hermant
+2 GIVN Vital
+1 SEX M
+1 DEAT
+2 Plac Fourmies
+2 DATE 28 FEB 1886
+1 BIRT
+2 Plac Féron
+2 DATE 11 MAR 1831
+1 FAMS @F73@
+1 FAMC @F611117567@
+0 @I133@ INDI
+1 NAME Jean /Clement/
+2 SURN Clement
+2 GIVN Jean
+1 SEX M
+1 DEAT
+2 DATE 17 MAR 1728
+1 BIRT
+2 DATE 1 JAN 1666
+1 FAMS @F74@
+0 @I134@ INDI
+1 NAME Marie /Gochon/
+2 SURN Gochon
+2 GIVN Marie
+1 SEX F
+1 DEAT
+2 DATE 14 SEP 1736
+1 BIRT
+2 DATE 28 MAR 1672
+1 FAMS @F74@
+1 FAMC @F64@
+0 @I135@ INDI
+1 NAME Angélique /Cornée/
+2 SURN Cornée
+2 GIVN Angélique
+1 SEX F
+1 DEAT
+2 DATE 22 DEC 1825
+1 BIRT
+2 DATE 24 FEB 1749
+1 FAMS @F75@
+0 @I136@ INDI
+1 NAME Philippe /Divry/
+2 SURN Divry
+2 GIVN Philippe
+1 SEX M
+1 DEAT
+2 DATE 19 MAY 1827
+1 BIRT
+2 DATE 25 NOV 1750
+1 OCCU Faiseur de bas
+1 FAMS @F75@
+0 @I137@ INDI
+1 NAME François /Daquet/
+2 SURN Daquet
+2 GIVN François
+1 SEX M
+1 DEAT
+2 DATE 17 DEC 1870
+1 BIRT
+2 DATE 8 FEB 1812
+0 @I138@ INDI
+1 NAME Hélène /Charmet/
+2 SURN Charmet
+2 GIVN Hélène
+1 SEX F
+1 FAMS @F77@
+1 FAMC @F36@
+0 @I139@ INDI
+1 NAME Jacques /Charmet/
+2 SURN Charmet
+2 GIVN Jacques
+1 SEX M
+1 FAMC @F36@
+0 @I140@ INDI
+1 NAME Victorien /Daquet/
+2 SURN Daquet
+2 GIVN Victorien
+1 SEX M
+1 DEAT
+2 Plac Angers
+2 DATE 21 APR 1917
+1 BIRT
+2 Plac St-Aubin
+2 DATE 08 DEC 1846
+1 CENS
+2 Plac St-Aubin
+2 DATE 1906
+1 FAMS @F79@
+1 FAMC @F611117925@
+0 @I141@ INDI
+1 NAME Marie-Anne /Deforge/
+2 SURN Deforge
+2 GIVN Marie-Anne
+1 SEX F
+1 DEAT
+2 DATE 1 JAN 1813
+1 FAMS @F80@
+0 @I142@ INDI
+1 NAME Pierre /Gravez/
+2 SURN Gravez
+2 GIVN Pierre
+1 SEX M
+1 DEAT
+2 DATE 2 JAN 1795
+1 BIRT
+2 DATE 1 JAN 1727
+1 FAMS @F80@
+0 @I143@ INDI
+1 NAME Jacques /Degaigne/
+2 SURN Degaigne
+2 GIVN Jacques
+1 SEX M
+1 DEAT
+2 DATE 13 JUL 1814
+1 BIRT
+2 DATE 28 FEB 1725
+1 FAMS @F81@
+1 FAMC @F30@
+0 @I144@ INDI
+1 NAME Marie-Marguerite /Jouniaux/
+2 SURN Jouniaux
+2 GIVN Marie-Marguerite
+1 SEX F
+1 DEAT
+2 DATE 9 JUL 1800
+1 BIRT
+2 DATE 15 SEP 1729
+1 FAMS @F81@
+0 @I145@ INDI
+1 NAME César /Degaigne/
+2 SURN Degaigne
+2 GIVN César
+1 SEX M
+1 DEAT
+2 DATE 22 JAN 1892
+1 BIRT
+2 DATE 29 OCT 1815
+1 FAMS @F82@
+1 FAMC @F34@
+0 @I146@ INDI
+1 NAME Aurore /Michie/
+2 SURN Michie
+2 GIVN Aurore
+1 SEX F
+1 DEAT
+2 Plac Trélon
+2 DATE 14 SEP 1893
+1 BIRT
+2 Plac Wignehies
+2 DATE 20 NOV 1815
+1 FAMS @F82@
+1 FAMC @F611117321@
+0 @I147@ INDI
+1 NAME Léon /Degaigne/
+2 SURN Degaigne
+2 GIVN Léon
+1 SEX M
+1 DEAT
+2 Plac Avesnes /S Helpe
+2 DATE 6 APR 1922
+1 BIRT
+2 Plac Nord
+2 DATE 16 NOV 1870
+1 CENS
+2 Plac Avesnes-Les-Aubert
+2 DATE 1906
+1 FAMS @F83@
+1 FAMC @F3@
+0 @I148@ INDI
+1 NAME Louise /Divry/
+2 SURN Divry
+2 GIVN Louise
+1 SEX F
+1 DEAT
+2 Plac Nord
+2 DATE 3 MAR 1932
+1 BIRT
+2 Plac Fourmies
+2 DATE 09 NOV 1880
+1 FAMS @F83@
+1 FAMC @F95@
+0 @I149@ INDI
+1 NAME Adrienne /Degaigne/
+2 SURN Degaigne
+2 GIVN Adrienne
+1 SEX F
+1 DEAT
+2 DATE 18 MAY 1989
+1 BIRT
+2 DATE 5 JUN 1905
+1 FAMC @F83@
+0 @I150@ INDI
+1 NAME André /Degaigne/
+2 SURN Degaigne
+2 GIVN André
+1 SEX M
+1 DEAT
+2 DATE 20 JAN 1984
+1 BIRT
+2 DATE 11 JUN 1908
+1 FAMC @F83@
+0 @I151@ INDI
+1 NAME Agnès /Degaigne/
+2 SURN Degaigne
+2 GIVN Agnès
+1 SEX F
+1 DEAT
+2 DATE 18 MAY 2020
+1 BIRT
+2 DATE 15 NOV 1920
+1 FAMC @F83@
+0 @I152@ INDI
+1 NAME Jacques /Deleau/
+2 SURN Deleau
+2 GIVN Jacques
+1 SEX M
+1 BIRT
+2 DATE 26 APR 1934
+1 FAMS @F87@
+0 @I153@ INDI
+1 NAME Nicole /Descamps/
+2 SURN Descamps
+2 GIVN Nicole
+1 SEX F
+1 BIRT
+2 DATE 20 APR 1937
+1 FAMS @F87@
+0 @I154@ INDI
+1 NAME Mathilde /Denis/
+2 SURN Denis
+2 GIVN Mathilde
+1 SEX F
+1 DEAT
+2 DATE 16 FEB 1733
+1 BIRT
+2 DATE 1 JAN 1653
+1 FAMS @F88@
+0 @I155@ INDI
+1 NAME Pierre /Divry/
+2 SURN Divry
+2 GIVN Pierre
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1650
+1 FAMS @F88@
+0 @I156@ INDI
+1 NAME Honoré Théophile /Divry/
+2 SURN Divry
+2 GIVN Honoré Théophile
+1 SEX M
+1 DEAT
+2 Plac Ohain
+2 DATE 26 NOV 1872
+1 BIRT
+2 Plac Ohain
+2 DATE 04 NOV 1781
+1 OCCU Marchand bonnetier
+1 FAMS @F89@
+1 FAMC @F75@
+0 @I157@ INDI
+1 NAME Marie Catherine Victoire /Mairesse/
+2 SURN Mairesse
+2 GIVN Marie Catherine Victoire
+1 SEX F
+1 DEAT
+2 DATE 7 JUN 1854
+1 BAPM
+2 Plac Ohain
+2 DATE 05 MAY 1785
+1 FAMS @F89@
+1 FAMS @F611206990@
+1 FAMC @F611199661@
+0 @I158@ INDI
+1 NAME Marie Françoise /Divry/
+2 SURN Divry
+2 GIVN Marie Françoise
+1 SEX F
+1 BIRT
+2 DATE 15 MAY 1784
+1 FAMC @F75@
+0 @I159@ INDI
+1 NAME Philippe Joseph /Divry/
+2 SURN Divry
+2 GIVN Philippe Joseph
+1 SEX M
+1 DEAT
+2 DATE 26 NOV 1869
+1 BIRT
+2 DATE 26 SEP 1790
+1 FAMC @F75@
+0 @I160@ INDI
+1 NAME Léopold /Divry/
+2 SURN Divry
+2 GIVN Léopold
+1 SEX M
+1 BIRT
+2 DATE 20 DEC 1792
+1 FAMC @F75@
+0 @I161@ INDI
+1 NAME Victor /Divry/
+2 SURN Divry
+2 GIVN Victor
+1 SEX M
+1 BIRT
+2 DATE 2 AUG 1795
+1 FAMC @F75@
+0 @I162@ INDI
+1 NAME Edouard Elie /Divry/
+2 SURN Divry
+2 GIVN Edouard Elie
+1 SEX M
+1 DEAT
+2 DATE 6 MAR 1896
+1 BIRT
+2 Plac Ohain
+2 DATE 25 MAR 1815
+1 OCCU Brasseur
+1 FAMS @F94@
+1 FAMC @F89@
+0 @I163@ INDI
+1 NAME Stéphanie /Dupont/
+2 SURN Dupont
+2 GIVN Stéphanie
+1 SEX F
+1 DEAT
+2 Plac Ohain
+2 DATE 04 MAY 1888
+1 BIRT
+2 Plac Couvin
+2 DATE 23 APR 1821
+1 FAMS @F94@
+1 FAMC @F611169822@
+0 @I164@ INDI
+1 NAME Léon /Divry/
+2 SURN Divry
+2 GIVN Léon
+1 SEX M
+1 DEAT
+2 DATE 20 SEP 1935
+1 BIRT
+2 Plac Ohain
+2 DATE 13 APR 1853
+1 CENS
+2 Plac Fourmies
+2 DATE 1906
+1 FAMS @F95@
+1 FAMC @F94@
+0 @I165@ INDI
+1 NAME Louise /Hermant/
+2 SURN Hermant
+2 GIVN Louise
+1 SEX F
+1 DEAT
+2 DATE 6 JAN 1910
+1 BIRT
+2 DATE 1 APR 1858
+1 FAMS @F95@
+1 FAMC @F73@
+0 @I166@ INDI
+1 NAME Clotilde /Divry/
+2 SURN Divry
+2 GIVN Clotilde
+1 SEX F
+1 BIRT
+2 DATE 18 JAN 1883
+1 FAMC @F95@
+0 @I167@ INDI
+1 NAME Edouard /Divry/
+2 SURN Divry
+2 GIVN Edouard
+1 SEX M
+1 BIRT
+2 DATE 17 DEC 1884
+1 FAMC @F95@
+0 @I168@ INDI
+1 NAME Léontine /Divry/
+2 SURN Divry
+2 GIVN Léontine
+1 SEX F
+1 DEAT
+2 DATE 10 MAR 1971
+1 BIRT
+2 DATE 30 MAR 1888
+1 FAMC @F95@
+0 @I169@ INDI
+1 NAME Léopold /Divry/
+2 SURN Divry
+2 GIVN Léopold
+1 SEX M
+1 DEAT
+2 DATE 18 MAY 1980
+1 BIRT
+2 DATE 14 JUL 1895
+1 FAMC @F95@
+0 @I170@ INDI
+1 NAME Henriette /Divry/
+2 SURN Divry
+2 GIVN Henriette
+1 SEX F
+1 DEAT
+2 DATE 26 DEC 1974
+1 BIRT
+2 DATE 10 JUN 1903
+1 FAMC @F95@
+0 @I171@ INDI
+1 NAME Stéphane /Divry/
+2 SURN Divry
+2 GIVN Stéphane
+1 SEX M
+1 DEAT
+2 DATE 13 FEB 2007
+1 BIRT
+2 DATE 18 DEC 1920
+1 FAMC @F47@
+0 @I172@ INDI
+1 NAME Nicolas /Dromeray/
+2 SURN Dromeray
+2 GIVN Nicolas
+1 SEX M
+1 DEAT
+2 DATE 1 JAN 1832
+1 BIRT
+2 DATE 1 JAN 1759
+1 FAMS @F102@
+0 @I173@ INDI
+1 NAME Marie /Lermigeaux/
+2 SURN Lermigeaux
+2 GIVN Marie
+1 SEX F
+1 DEAT
+2 DATE 3 MAY 1835
+1 BIRT
+2 DATE 1 JAN 1761
+1 FAMS @F102@
+1 FAMC @F41@
+0 @I174@ INDI
+1 NAME Cirile /Dromeray/
+2 SURN Dromeray
+2 GIVN Cirile
+1 SEX M
+1 DEAT
+2 DATE 13 SEP 1868
+1 BIRT
+2 DATE 7 APR 1793
+1 FAMS @F103@
+0 @I175@ INDI
+1 NAME Célestine /Lenoir/
+2 SURN Lenoir
+2 GIVN Célestine
+1 SEX F
+1 DEAT
+2 DATE 17 JUL 1848
+1 BIRT
+2 DATE 5 SEP 1791
+1 FAMS @F103@
+0 @I176@ INDI
+1 NAME Eric /Droulers/
+2 SURN Droulers
+2 GIVN Eric
+1 SEX M
+1 DEAT
+2 DATE 5 FEB 1971
+1 BIRT
+2 DATE 14 MAY 1947
+1 FAMC @F48@
+0 @I177@ INDI
+1 NAME Alcidie Josèphe /Dufranne/
+2 SURN Dufranne
+2 GIVN Alcidie Josèphe
+1 SEX F
+1 BIRT
+2 DATE 9 JAN 1838
+1 DEAT
+1 FAMS @F105@
+1 FAMC @F611240968@
+0 @I178@ INDI
+1 NAME Ferdinand /Payen/
+2 SURN Payen
+2 GIVN Ferdinand
+1 SEX M
+1 BIRT
+2 Plac Villers-Pol
+2 DATE 6 JUL 1834
+1 DEAT
+2 Plac Caudry
+2 DATE 08 MAR 1879
+1 FAMS @F105@
+1 FAMC @F611034011@
+0 @I179@ INDI
+1 NAME Alain /Giard/
+2 SURN Giard
+2 GIVN Alain
+1 SEX M
+1 DEAT
+2 DATE 25 JUL 1996
+1 BIRT
+2 DATE 19 JUN 1950
+1 FAMS @F106@
+1 FAMC @F50@
+0 @I180@ INDI
+1 NAME Philippe /Giard/
+2 SURN Giard
+2 GIVN Philippe
+1 SEX M
+1 DEAT
+2 DATE 18 JAN 2010
+1 BIRT
+2 DATE 9 OCT 1953
+1 FAMC @F50@
+0 @I181@ INDI
+1 NAME Gérard /Gochon/
+2 SURN Gochon
+2 GIVN Gérard
+1 SEX M
+1 DEAT
+2 DATE 2 APR 1748
+1 BIRT
+2 DATE 9 OCT 1677
+1 FAMS @F108@
+1 FAMC @F64@
+0 @I182@ INDI
+1 NAME Marie /Lantier/
+2 SURN Lantier
+2 GIVN Marie
+1 SEX F
+1 FAMS @F108@
+0 @I183@ INDI
+1 NAME Nicolas /Gochon/
+2 SURN Gochon
+2 GIVN Nicolas
+1 SEX M
+1 DEAT
+2 DATE 5 SEP 1808
+1 BIRT
+2 DATE 2 DEC 1738
+1 FAMS @F109@
+1 FAMC @F108@
+0 @I184@ INDI
+1 NAME Marie-Louise /Boudart/
+2 SURN Boudart
+2 GIVN Marie-Louise
+1 SEX F
+1 DEAT
+2 DATE 1 JAN 1807
+1 BIRT
+2 DATE 21 MAY 1740
+1 FAMS @F109@
+0 @I185@ INDI
+1 NAME Jean-Baptiste /Gochon/
+2 SURN Gochon
+2 GIVN Jean-Baptiste
+1 SEX M
+1 DEAT
+2 DATE 31 JUL 1853
+1 BIRT
+2 DATE 6 JUN 1774
+1 FAMS @F110@
+1 FAMC @F109@
+0 @I186@ INDI
+1 NAME Catherine /Tricot/
+2 SURN Tricot
+2 GIVN Catherine
+1 SEX F
+1 DEAT
+2 DATE 12 MAY 1859
+1 BIRT
+2 DATE 7 SEP 1779
+1 FAMS @F110@
+0 @I187@ INDI
+1 NAME Joséphine /Gochon/
+2 SURN Gochon
+2 GIVN Joséphine
+1 SEX F
+1 DEAT
+2 Plac Fourmies
+2 DATE 25 JUN 1894
+1 BIRT
+2 DATE 30 MAR 1812
+1 FAMS @F111@
+1 FAMC @F110@
+0 @I188@ INDI
+1 NAME Cyprien /Proisy/
+2 SURN Proisy
+2 GIVN Cyprien
+1 SEX M
+1 DEAT
+2 Plac Fourmies
+2 DATE 03 JUN 1878
+1 BIRT
+2 Plac Fourmies
+2 DATE 1 JAN 1804
+1 OCCU Filateur
+2 Plac Fourmies
+1 FAMS @F111@
+1 FAMC @F68@
+0 @I189@ INDI
+1 NAME François /Gochon/
+2 SURN Gochon
+2 GIVN François
+1 SEX M
+1 DEAT
+2 DATE 1 JAN 1662
+1 BIRT
+2 DATE 1 JAN 1620
+1 FAMS @F112@
+0 @I190@ INDI
+1 NAME Marie /Le Roy/
+2 SURN Le Roy
+2 GIVN Marie
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1620
+1 FAMS @F112@
+0 @I191@ INDI
+1 NAME Jacques /Hermant/
+2 SURN Hermant
+2 GIVN Jacques
+1 SEX M
+1 DEAT
+2 DATE 2 FEB 1858
+1 BIRT
+2 DATE 4 JUN 1796
+1 FAMS @F113@
+0 @I192@ INDI
+1 NAME Thérèse /Moutier/
+2 SURN Moutier
+2 GIVN Thérèse
+1 SEX F
+1 DEAT
+2 DATE 1 JAN 1865
+1 BIRT
+2 DATE 1 JAN 1793
+1 FAMS @F113@
+0 @I193@ INDI
+1 NAME Renaud /Jenart/
+2 SURN Jenart
+2 GIVN Renaud
+1 SEX M
+1 DEAT
+2 DATE 2 MAY 2010
+1 BIRT
+2 DATE 4 JUL 1960
+1 FAMC @F35@
+0 @I194@ INDI
+1 NAME Louis /Le Roy/
+2 SURN Le Roy
+2 GIVN Louis
+1 SEX M
+1 DEAT
+2 DATE 28 AUG 1721
+1 BIRT
+2 DATE 23 JAN 1647
+1 FAMC @F29@
+0 @I195@ INDI
+1 NAME Lucien /Lelong/
+2 SURN Lelong
+2 GIVN Lucien
+1 SEX M
+1 DEAT
+2 Plac Fourmies
+2 DATE ABT 1901
+1 BIRT
+2 Plac Fourmies
+2 DATE 25 JAN 1861
+1 OCCU Entrepreneur de transports
+1 FAMS @F116@
+1 FAMC @F184@
+0 @I196@ INDI
+1 NAME Marie /Moret/
+2 SURN Moret
+2 GIVN Marie
+1 SEX F
+1 DEAT
+2 DATE 29 DEC 1924
+1 BIRT
+2 DATE 24 JAN 1873
+1 FAMS @F116@
+1 FAMC @F123@
+0 @I197@ INDI
+1 NAME Félix /Lévêque/
+2 SURN Lévêque
+2 GIVN Félix
+1 SEX M
+1 BIRT
+2 DATE 8 DEC 1981
+1 FAMS @F117@
+1 FAMC @F189@
+0 @I198@ INDI
+1 NAME Pauline /Leyravaud/
+2 SURN Leyravaud
+2 GIVN Pauline
+1 SEX F
+1 BIRT
+2 DATE 24 JAN 1986
+1 FAMS @F117@
+1 FAMC @F56@
+0 @I199@ INDI
+1 NAME Hypolite /Lévêque/
+2 SURN Lévêque
+2 GIVN Hypolite
+1 SEX M
+1 FAMC @F117@
+0 @I200@ INDI
+1 NAME Jean /Lévêque/
+2 SURN Lévêque
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 DATE 17 JUL 2014
+1 FAMC @F117@
+0 @I201@ INDI
+1 NAME Jean-Christophe /Leyravaud/
+2 SURN Leyravaud
+2 GIVN Jean-Christophe
+1 SEX M
+1 BIRT
+2 DATE 13 MAR 1981
+1 FAMS @F120@
+1 FAMC @F56@
+0 @I202@ INDI
+1 NAME Maxime /Leyravaud/
+2 SURN Leyravaud
+2 GIVN Maxime
+1 SEX M
+1 BIRT
+2 DATE 21 FEB 1987
+1 FAMC @F56@
+0 @I203@ INDI
+1 NAME Pierre /Maronet/
+2 SURN Maronet
+2 GIVN Pierre
+1 SEX M
+0 @I204@ INDI
+1 NAME Jules Ambroise /Moret/
+2 SURN Moret
+2 GIVN Jules Ambroise
+1 SEX M
+1 DEAT
+2 Plac Nord
+2 DATE 14 SEP 1893
+1 BIRT
+2 Plac Le Sourd
+2 DATE 28 JUN 1843
+1 FAMS @F123@
+1 FAMC @F611256858@
+0 @I205@ INDI
+1 NAME Silvie /Ricart/
+2 SURN Ricart
+2 GIVN Silvie
+1 SEX F
+1 DEAT
+2 Plac Fourmies
+2 DATE 05 AUG 1897
+1 BIRT
+2 Plac Rocquigny
+2 DATE 17 FEB 1847
+1 FAMS @F123@
+1 FAMC @F611241476@
+0 @I206@ INDI
+1 NAME Henri /Ocasio-Cruz Bracq/
+2 SURN Ocasio-Cruz Bracq
+2 GIVN Henri
+1 SEX M
+1 BIRT
+2 DATE 7 JUN 2020
+1 FAMC @F61@
+0 @I207@ INDI
+1 NAME Virginie /Pantenier/
+2 SURN Pantenier
+2 GIVN Virginie
+1 SEX F
+1 DEAT
+2 Plac St-Aubin
+2 DATE 18 MAR 1871
+1 BIRT
+2 Plac St-Hilaire /S Helpe
+2 DATE 06 APR 1814
+1 FAMS @F611117925@
+1 FAMC @F611125232@
+0 @I208@ INDI
+1 NAME Marie /Prévôt/
+2 SURN Prévôt
+2 GIVN Marie
+1 SEX F
+1 DEAT
+2 DATE 24 NOV 1899
+1 BIRT
+2 DATE 12 JUL 1863
+1 FAMS @F126@
+1 FAMC @F199@
+0 @I209@ INDI
+1 NAME Alfred /Ravaux/
+2 SURN Ravaux
+2 GIVN Alfred
+1 SEX M
+1 DEAT
+2 Plac Lay-St-Christophe
+2 DATE 22 FEB 1922
+1 BIRT
+2 Plac Grindorff-Bizing
+2 DATE 26 OCT 1849
+1 NATU
+2 Plac Grindorff-Bizing
+2 DATE 1872
+1 OCCU Contrôleur des douanes
+2 DATE 1885
+1 FAMS @F126@
+1 FAMC @F609648383@
+0 @I210@ INDI
+1 NAME Edgar /Rodriguez/
+2 SURN Rodriguez
+2 GIVN Edgar
+1 SEX M
+1 BIRT
+2 DATE 18 JAN 2013
+1 FAMC @F18@
+0 @I211@ INDI
+1 NAME Anton /Rodriguez/
+2 SURN Rodriguez
+2 GIVN Anton
+1 SEX M
+1 BIRT
+2 DATE 6 FEB 2015
+1 FAMC @F18@
+0 @I212@ INDI
+1 NAME Yan /Tardif/
+2 SURN Tardif
+2 GIVN Yan
+1 SEX M
+1 DEAT
+2 DATE 5 DEC 2017
+1 BIRT
+2 DATE 21 APR 1935
+1 FAMS @F129@
+0 @I213@ INDI
+1 NAME Charles /Tardif/
+2 SURN Tardif
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 DATE 9 APR 1991
+1 FAMC @F58@
+0 @I214@ INDI
+1 NAME Victor /Tardif/
+2 SURN Tardif
+2 GIVN Victor
+1 SEX M
+1 BIRT
+2 DATE 17 SEP 1994
+1 FAMC @F58@
+0 @I215@ INDI
+1 NAME Caroline /Tardif/
+2 SURN Tardif
+2 GIVN Caroline
+1 SEX F
+1 BIRT
+2 DATE 8 JAN 1998
+1 FAMC @F58@
+0 @I216@ INDI
+1 NAME Emmanuel /Bioche/
+2 SURN Bioche
+2 GIVN Emmanuel
+1 SEX M
+1 FAMC @F31@
+0 @I217@ INDI
+1 NAME François /Bioche/
+2 SURN Bioche
+2 GIVN François
+1 SEX M
+1 FAMS @F134@
+1 FAMC @F31@
+0 @I218@ INDI
+1 NAME Alexandra /Bioche/
+2 SURN Bioche
+2 GIVN Alexandra
+1 SEX F
+1 FAMC @F134@
+0 @I219@ INDI
+1 NAME Dominique /Bioche/
+2 SURN Bioche
+2 GIVN Dominique
+1 SEX M
+1 DEAT
+2 DATE 8 SEP 1976
+1 BIRT
+2 DATE 21 DEC 1951
+1 FAMC @F31@
+0 @I220@ INDI
+1 NAME Frédéric /Bioche/
+2 SURN Bioche
+2 GIVN Frédéric
+1 SEX M
+1 DEAT
+2 DATE 1 MAY 2021
+1 BIRT
+2 DATE 30 NOV 1947
+1 FAMC @F31@
+0 @I221@ INDI
+1 NAME Bruno /Giard/
+2 SURN Giard
+2 GIVN Bruno
+1 SEX M
+1 FAMC @F50@
+0 @I222@ INDI
+1 NAME Olivier /Giard/
+2 SURN Giard
+2 GIVN Olivier
+1 SEX M
+1 FAMC @F50@
+0 @I223@ INDI
+1 NAME Béatrice /Giard/
+2 SURN Giard
+2 GIVN Béatrice
+1 SEX F
+1 FAMC @F50@
+0 @I224@ INDI
+1 NAME Catherine /Droulers/
+2 SURN Droulers
+2 GIVN Catherine
+1 SEX F
+1 FAMC @F48@
+0 @I225@ INDI
+1 NAME Véronique /Droulers/
+2 SURN Droulers
+2 GIVN Véronique
+1 SEX F
+1 FAMS @F142@
+1 FAMC @F48@
+0 @I226@ INDI
+1 NAME Emmanuel /Renard/
+2 SURN Renard
+2 GIVN Emmanuel
+1 SEX M
+1 FAMS @F142@
+0 @I227@ INDI
+1 NAME Christophe /Droulers/
+2 SURN Droulers
+2 GIVN Christophe
+1 SEX M
+1 FAMC @F48@
+0 @I228@ INDI
+1 NAME Denis /Droulers/
+2 SURN Droulers
+2 GIVN Denis
+1 SEX M
+1 FAMS @F144@
+1 FAMC @F48@
+0 @I229@ INDI
+1 NAME Anne-Marie /Legrand/
+2 SURN Legrand
+2 GIVN Anne-Marie
+1 SEX F
+1 DEAT
+2 DATE 7 JUL 2018
+1 BIRT
+2 DATE 26 JAN 1950
+1 FAMS @F144@
+0 @I230@ INDI
+1 NAME Aurore /Droulers/
+2 SURN Droulers
+2 GIVN Aurore
+1 SEX F
+1 FAMC @F144@
+0 @I231@ INDI
+1 NAME Nicolas /Jenart/
+2 SURN Jenart
+2 GIVN Nicolas
+1 SEX M
+1 FAMC @F35@
+0 @I232@ INDI
+1 NAME Ingrid /Jenart/
+2 SURN Jenart
+2 GIVN Ingrid
+1 SEX F
+1 FAMC @F35@
+0 @I233@ INDI
+1 NAME Carlos /Jenart/
+2 SURN Jenart
+2 GIVN Carlos
+1 SEX M
+1 FAMC @F35@
+0 @I234@ INDI
+1 NAME Bénédicte /Jenart/
+2 SURN Jenart
+2 GIVN Bénédicte
+1 SEX F
+1 FAMC @F35@
+0 @I235@ INDI
+1 NAME Anne /Jutel/
+2 SURN Jutel
+2 GIVN Anne
+1 SEX F
+1 FAMC @F37@
+0 @I236@ INDI
+1 NAME Chantal /Jutel/
+2 SURN Jutel
+2 GIVN Chantal
+1 SEX F
+1 FAMC @F37@
+0 @I237@ INDI
+1 NAME Edwige /Jutel/
+2 SURN Jutel
+2 GIVN Edwige
+1 SEX F
+1 FAMC @F37@
+0 @I238@ INDI
+1 NAME Soline /Renard/
+2 SURN Renard
+2 GIVN Soline
+1 SEX F
+1 FAMC @F142@
+0 @I239@ INDI
+1 NAME Marine /Renard/
+2 SURN Renard
+2 GIVN Marine
+1 SEX F
+1 FAMC @F142@
+0 @I240@ INDI
+1 NAME Laetitia /Renard/
+2 SURN Renard
+2 GIVN Laetitia
+1 SEX F
+1 FAMC @F142@
+0 @I241@ INDI
+1 NAME François /Renard/
+2 SURN Renard
+2 GIVN François
+1 SEX M
+1 FAMC @F142@
+0 @I242@ INDI
+1 NAME Cédric /Renard/
+2 SURN Renard
+2 GIVN Cédric
+1 SEX M
+1 FAMC @F142@
+0 @I243@ INDI
+1 NAME Sophie /Renard/
+2 SURN Renard
+2 GIVN Sophie
+1 SEX F
+1 FAMC @F142@
+0 @I244@ INDI
+1 NAME Théophile /Charmet/
+2 SURN Charmet
+2 GIVN Théophile
+1 SEX M
+1 FAMC @F71@
+0 @I245@ INDI
+1 NAME Antoine /Charmet/
+2 SURN Charmet
+2 GIVN Antoine
+1 SEX M
+1 FAMC @F77@
+0 @I246@ INDI
+1 NAME Caroline /Giard/
+2 SURN Giard
+2 GIVN Caroline
+1 SEX F
+1 FAMC @F106@
+0 @I247@ INDI
+1 NAME Estelle /Giard/
+2 SURN Giard
+2 GIVN Estelle
+1 SEX F
+1 FAMC @F106@
+0 @I248@ INDI
+1 NAME Colette /Bracq/
+2 SURN Bracq
+2 GIVN Colette
+1 SEX F
+1 FAMC @F55@
+0 @I249@ INDI
+1 NAME Ginette /Bracq/
+2 SURN Bracq
+2 GIVN Ginette
+1 SEX F
+1 FAMC @F55@
+0 @I250@ INDI
+1 NAME Marie-Rose /Bracq/
+2 SURN Bracq
+2 GIVN Marie-Rose
+1 SEX F
+1 DEAT
+2 DATE 5 SEP 2018
+1 BIRT
+2 DATE 14 JUL 1927
+1 FAMS @F165@
+1 FAMC @F55@
+0 @I251@ INDI
+1 NAME Jean-Bernard /Vannieuwenhuyse/
+2 SURN Vannieuwenhuyse
+2 GIVN Jean-Bernard
+1 SEX M
+1 DEAT
+2 DATE 9 JUN 2015
+1 BIRT
+2 DATE 20 DEC 1924
+1 FAMS @F165@
+0 @I252@ INDI
+1 NAME Françoise /Bracq/
+2 SURN Bracq
+2 GIVN Françoise
+1 SEX F
+1 DEAT
+2 DATE 16 MAR 2019
+1 BIRT
+2 DATE 28 MAY 1932
+1 FAMS @F166@
+1 FAMC @F55@
+0 @I253@ INDI
+1 NAME Jean-Claude /Poitte/
+2 SURN Poitte
+2 GIVN Jean-Claude
+1 SEX M
+1 DEAT
+2 DATE 2 AUG 1992
+1 BIRT
+2 DATE 1 FEB 1924
+1 FAMS @F166@
+0 @I254@ INDI
+1 NAME Jean Philippe /Bracq/
+2 SURN Bracq
+2 GIVN Jean Philippe
+1 SEX M
+1 DEAT
+2 Plac Caudry
+2 DATE 27 AUG 1870
+1 BIRT
+2 DATE 29 MAR 1792
+1 BAPM
+2 Plac Caudry
+2 DATE 30 MAR 1792
+1 FAMS @F167@
+1 FAMC @F168@
+0 @I256@ INDI
+1 NAME Philippe /Bracq/
+2 SURN Bracq
+2 GIVN Philippe
+1 SEX M
+1 BIRT
+2 Plac Caudry
+2 DATE 01 DEC 1747
+1 DEAT
+2 Plac Caudry
+2 DATE 30 MAR 1834
+1 FAMS @F168@
+1 FAMC @F611417111@
+0 @I257@ INDI
+1 NAME Marie Adrienne /Gabet/
+2 SURN Gabet
+2 GIVN Marie Adrienne
+1 SEX F
+1 DEAT
+2 Plac Caudry
+2 DATE 11 JAN 1820
+1 BIRT
+2 DATE 1753
+1 FAMS @F168@
+0 @I258@ INDI
+1 NAME Alfred /Ravaux/
+2 SURN Ravaux
+2 GIVN Alfred
+1 SEX M
+1 DEAT
+2 DATE 31 MAR 1996
+1 BIRT
+2 DATE 24 JUL 1924
+1 FAMC @F70@
+0 @I259@ INDI
+1 NAME Thérèse /Levasseur/
+2 SURN Levasseur
+2 GIVN Thérèse
+1 SEX F
+1 DEAT
+2 DATE 11 DEC 1984
+1 BIRT
+2 DATE 20 JUN 1891
+1 FAMS @F170@
+1 FAMC @F171@
+0 @I260@ INDI
+1 NAME Henri /Droulers/
+2 SURN Droulers
+2 GIVN Henri
+1 SEX M
+1 DEAT
+2 DATE 11 SEP 1966
+1 BIRT
+2 DATE 6 MAY 1885
+1 FAMS @F170@
+1 FAMS @F642686804@
+1 FAMC @F172@
+0 @I261@ INDI
+1 NAME Louis /Levasseur/
+2 SURN Levasseur
+2 GIVN Louis
+1 SEX M
+1 DEAT
+2 Plac Nord
+2 DATE 19 APR 1898
+1 BIRT
+2 Plac Fourmies
+2 DATE 15 JUN 1852
+1 FAMS @F171@
+1 FAMC @F173@
+0 @I262@ INDI
+1 NAME Marthe /Bertaux/
+2 SURN Bertaux
+2 GIVN Marthe
+1 SEX F
+1 BIRT
+2 DATE 16 FEB 1858
+1 FAMS @F171@
+1 FAMC @F27@
+0 @I263@ INDI
+1 NAME Marie /Hecquet/
+2 SURN Hecquet
+2 GIVN Marie
+1 SEX F
+1 DEAT
+2 DATE 11 MAR 1935
+1 BIRT
+2 DATE 22 JUN 1861
+1 FAMS @F172@
+0 @I264@ INDI
+1 NAME Edmond /Droulers/
+2 SURN Droulers
+2 GIVN Edmond
+1 SEX M
+1 DEAT
+2 DATE 15 JUL 1924
+1 BIRT
+2 DATE 11 JAN 1857
+1 FAMS @F172@
+1 FAMC @F188@
+0 @I265@ INDI
+1 NAME Alfred /Levasseur/
+2 SURN Levasseur
+2 GIVN Alfred
+1 SEX M
+1 DEAT
+2 DATE 4 NOV 1890
+1 BIRT
+2 DATE 12 AUG 1824
+1 FAMS @F173@
+1 FAMC @F174@
+0 @I266@ INDI
+1 NAME Adolphine /Hénouille/
+2 SURN Hénouille
+2 GIVN Adolphine
+1 SEX F
+1 DEAT
+2 DATE 9 AUG 1895
+1 BIRT
+2 DATE 24 OCT 1831
+1 FAMS @F173@
+1 FAMC @F175@
+0 @I267@ INDI
+1 NAME François /Levasseur/
+2 SURN Levasseur
+2 GIVN François
+1 SEX M
+1 DEAT
+2 DATE 15 MAY 1832
+1 BIRT
+2 DATE 10 OCT 1791
+1 FAMS @F174@
+0 @I268@ INDI
+1 NAME Marie /Mismaque/
+2 SURN Mismaque
+2 GIVN Marie
+1 SEX F
+1 BIRT
+2 DATE 24 MAY 1793
+1 FAMS @F174@
+0 @I269@ INDI
+1 NAME Louis /Hénouille/
+2 SURN Hénouille
+2 GIVN Louis
+1 SEX M
+1 DEAT
+2 DATE 8 APR 1881
+1 BIRT
+2 DATE 9 FEB 1799
+1 FAMS @F175@
+0 @I270@ INDI
+1 NAME Adelaïde /Verdavoine/
+2 SURN Verdavoine
+2 GIVN Adelaïde
+1 SEX F
+1 DEAT
+2 DATE 17 JAN 1881
+1 BIRT
+2 DATE 4 SEP 1804
+1 FAMS @F175@
+0 @I271@ INDI
+1 NAME Noël /Proisy/
+2 SURN Proisy
+2 GIVN Noël
+1 SEX M
+1 DEAT
+2 DATE 9 SEP 1807
+1 BIRT
+2 DATE 24 DEC 1748
+1 FAMS @F176@
+1 FAMC @F177@
+0 @I272@ INDI
+1 NAME Marie /Catillon/
+2 SURN Catillon
+2 GIVN Marie
+1 SEX F
+1 DEAT
+2 DATE 21 JUL 1789
+1 BIRT
+2 DATE 3 MAR 1733
+1 FAMS @F176@
+0 @I273@ INDI
+1 NAME François /Proisy/
+2 SURN Proisy
+2 GIVN François
+1 SEX M
+1 DEAT
+2 DATE 3 MAR 1795
+1 BIRT
+2 DATE 6 JUL 1715
+1 FAMS @F177@
+1 FAMC @F178@
+0 @I274@ INDI
+1 NAME Anne /Robert/
+2 SURN Robert
+2 GIVN Anne
+1 SEX F
+1 DEAT
+2 DATE 12 FEB 1758
+1 BIRT
+2 DATE 10 FEB 1718
+1 FAMS @F177@
+0 @I275@ INDI
+1 NAME Pierre /Proisy/
+2 SURN Proisy
+2 GIVN Pierre
+1 SEX M
+1 DEAT
+2 DATE 3 JAN 1765
+1 BIRT
+2 DATE 23 MAR 1692
+1 FAMS @F178@
+0 @I276@ INDI
+1 NAME Marie /Loeuillet/
+2 SURN Loeuillet
+2 GIVN Marie
+1 SEX F
+1 DEAT
+2 DATE 3 JAN 1767
+1 BIRT
+2 DATE 17 JAN 1688
+1 FAMS @F178@
+0 @I277@ INDI
+1 NAME Jean /Bertaux/
+2 SURN Bertaux
+2 GIVN Jean
+1 SEX M
+1 DEAT
+2 Plac Fourmies
+2 DATE 26 MAY 1864
+1 BIRT
+2 Plac Fourmies
+2 DATE 3 DEC 1792
+1 FAMS @F179@
+1 FAMC @F180@
+0 @I278@ INDI
+1 NAME Josephine /Meurant/
+2 SURN Meurant
+2 GIVN Josephine
+1 SEX F
+1 BIRT
+2 DATE 16 DEC 1800
+1 FAMS @F179@
+0 @I279@ INDI
+1 NAME Louis /Bertaux/
+2 SURN Bertaux
+2 GIVN Louis
+1 SEX M
+1 DEAT
+2 DATE 2 NOV 1847
+1 BIRT
+2 DATE 17 JUL 1769
+1 FAMS @F180@
+1 FAMC @F181@
+0 @I280@ INDI
+1 NAME Marie /Legrand/
+2 SURN Legrand
+2 GIVN Marie
+1 SEX F
+1 DEAT
+2 DATE 7 NOV 1850
+1 BIRT
+2 Plac Nord
+2 DATE ABT 1768
+1 FAMS @F180@
+0 @I281@ INDI
+1 NAME Nicolas /Bertaux/
+2 SURN Bertaux
+2 GIVN Nicolas
+1 SEX M
+1 DEAT
+2 DATE 20 APR 1793
+1 BIRT
+2 DATE 21 JAN 1732
+1 FAMS @F181@
+0 @I282@ INDI
+1 NAME Marie /Tricot/
+2 SURN Tricot
+2 GIVN Marie
+1 SEX F
+1 DEAT
+2 DATE 9 SEP 1804
+1 BIRT
+2 DATE 8 SEP 1742
+1 FAMS @F181@
+0 @I283@ INDI
+1 NAME Jean Baptiste /Quenson/
+2 SURN Quenson
+2 GIVN Jean Baptiste
+1 SEX M
+1 BIRT
+2 Plac Caudry
+2 DATE 19 MAY 1801
+1 DEAT
+2 Plac Caudry
+2 DATE AFT 1888
+1 OCCU Cultivateur
+2 DATE 1829
+1 OCCU Fabricant de tulles
+2 DATE 1850
+1 FAMS @F182@
+1 FAMC @F611207330@
+0 @I284@ INDI
+1 NAME Virginie Caroline /Henninot/
+2 SURN Henninot
+2 GIVN Virginie Caroline
+1 SEX F
+1 BIRT
+2 Plac Caudry
+2 DATE 24 MAR 1806
+1 DEAT
+2 Plac Caudry
+2 DATE 15 DEC 1866
+1 FAMS @F182@
+1 FAMC @F183@
+0 @I285@ INDI
+1 NAME Jean Baptiste /Henninot/
+2 SURN Henninot
+2 GIVN Jean Baptiste
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1766
+1 DEAT
+2 Plac Caudry
+2 DATE 16 OCT 1845
+1 FAMS @F183@
+0 @I286@ INDI
+1 NAME Marie Françoise /Bricout/
+2 SURN Bricout
+2 GIVN Marie Françoise
+1 SEX F
+1 DEAT
+2 DATE 2 OCT 1825
+1 BIRT
+2 DATE 19 DEC 1767
+1 FAMS @F183@
+0 @I287@ INDI
+1 NAME Basile /Lelong/
+2 SURN Lelong
+2 GIVN Basile
+1 SEX M
+1 DEAT
+2 Plac Fourmies
+2 DATE 28 JUN 1904
+1 BIRT
+2 Plac St-Michel
+2 DATE 14 FEB 1835
+1 OCCU Contre-maitre de filature
+2 Plac Fourmies
+2 DATE 1873
+1 OCCU Entrepreneur de transports
+2 Plac Fourmies
+2 DATE 1886
+1 FAMS @F184@
+1 FAMC @F185@
+0 @I288@ INDI
+1 NAME Elisa /Lermigeaux/
+2 SURN Lermigeaux
+2 GIVN Elisa
+1 SEX F
+1 DEAT
+2 Plac Fourmies
+2 DATE 16 JAN 1886
+1 BIRT
+2 Plac Fourmies
+2 DATE 08 MAY 1835
+1 FAMS @F184@
+1 FAMC @F611241095@
+0 @I289@ INDI
+1 NAME Jean Baptiste Théodore /Lelong/
+2 SURN Lelong
+2 GIVN Jean Baptiste Théodore
+1 SEX M
+1 DEAT
+2 Plac Fourmies
+2 DATE 14 JUL 1851
+1 BIRT
+2 Plac St-Michel
+2 DATE 14 DEC 1805
+1 OCCU Charbonnier
+1 FAMS @F185@
+1 FAMC @F611241925@
+0 @I290@ INDI
+1 NAME Marie /Alliaume/
+2 SURN Alliaume
+2 GIVN Marie
+1 SEX F
+1 BIRT
+2 Plac St-Michel
+2 DATE 26 JAN 1808
+1 DEAT
+2 Plac Fourmies
+2 DATE 07 MAR 1886
+1 FAMS @F185@
+1 FAMC @F611242067@
+0 @I291@ INDI
+1 NAME Jean /Leyravaud/
+2 SURN Leyravaud
+2 GIVN Jean
+1 SEX M
+1 DEAT
+2 DATE 23 NOV 2001
+1 BIRT
+2 DATE 9 AUG 1925
+1 FAMS @F186@
+0 @I292@ INDI
+1 NAME Eugène /Droulers/
+2 SURN Droulers
+2 GIVN Eugène
+1 SEX M
+1 DEAT
+2 DATE 1 JAN 1929
+1 BIRT
+2 DATE 1 JAN 1861
+1 FAMC @F188@
+0 @I293@ INDI
+1 NAME Florentin /Droulers/
+2 SURN Droulers
+2 GIVN Florentin
+1 SEX M
+1 DEAT
+2 DATE 8 OCT 1864
+1 BIRT
+2 DATE 23 SEP 1822
+1 FAMS @F188@
+0 @I294@ INDI
+1 NAME Eugénie /Lefebvre/
+2 SURN Lefebvre
+2 GIVN Eugénie
+1 SEX F
+1 DEAT
+2 DATE 1 JAN 1914
+1 BIRT
+2 DATE 27 FEB 1837
+1 FAMS @F188@
+0 @I295@ INDI
+1 NAME Nathalie /Roques-Rogery/
+2 SURN Roques-Rogery
+2 GIVN Nathalie
+1 SEX F
+1 BIRT
+2 DATE 3 JAN 1957
+1 FAMS @F189@
+1 FAMC @F192@
+0 @I296@ INDI
+1 NAME Pierre /Lévêque/
+2 SURN Lévêque
+2 GIVN Pierre
+1 SEX M
+1 BIRT
+2 DATE 29 DEC 1951
+1 FAMS @F189@
+1 FAMC @F191@
+0 @I297@ INDI
+1 NAME Pauline /Lévêque/
+2 SURN Lévêque
+2 GIVN Pauline
+1 SEX F
+1 BIRT
+2 DATE 2 DEC 1978
+1 FAMC @F189@
+0 @I298@ INDI
+1 NAME Jean-Maxime /Lévêque/
+2 SURN Lévêque
+2 GIVN Jean-Maxime
+1 SEX M
+1 DEAT
+2 DATE 29 JUN 2014
+1 BIRT
+2 DATE 9 SEP 1923
+1 FAMS @F191@
+0 @I299@ INDI
+1 NAME Anne /Laurent/
+2 SURN Laurent
+2 GIVN Anne
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1926
+1 FAMS @F191@
+0 @I300@ INDI
+1 NAME Gérard /Roques-Rogery/
+2 SURN Roques-Rogery
+2 GIVN Gérard
+1 SEX M
+1 DEAT
+2 DATE 7 MAR 2014
+1 BIRT
+2 DATE 8 FEB 1926
+1 FAMS @F192@
+1 FAMC @F193@
+0 @I301@ INDI
+1 NAME Odile /Henrion/
+2 SURN Henrion
+2 GIVN Odile
+1 SEX F
+1 DEAT
+2 DATE 29 AUG 2013
+1 BIRT
+2 DATE 1 JUN 1925
+1 FAMS @F192@
+0 @I302@ INDI
+1 NAME Marcel /Roques-Rogery/
+2 SURN Roques-Rogery
+2 GIVN Marcel
+1 SEX M
+1 DEAT
+2 DATE 1 JAN 1938
+1 BIRT
+2 DATE 1 JAN 1890
+1 FAMS @F193@
+1 FAMC @F194@
+0 @I303@ INDI
+1 NAME Colette /Luc/
+2 SURN Luc
+2 GIVN Colette
+1 SEX F
+1 DEAT
+2 DATE 1 JAN 1990
+1 BIRT
+2 DATE 1 JAN 1901
+1 FAMS @F193@
+0 @I304@ INDI
+1 NAME Gaston /Roques-Rogery/
+2 SURN Roques-Rogery
+2 GIVN Gaston
+1 SEX M
+1 DEAT
+2 DATE 19 MAY 1938
+1 BIRT
+2 DATE 8 MAR 1862
+1 FAMS @F194@
+1 FAMC @F196@
+0 @I305@ INDI
+1 NAME Elisabeth /Laroche-Joubert/
+2 SURN Laroche-Joubert
+2 GIVN Elisabeth
+1 SEX F
+1 DEAT
+2 DATE 19 JAN 1887
+1 BIRT
+2 DATE 10 OCT 1867
+1 FAMS @F194@
+1 FAMC @F195@
+0 @I306@ INDI
+1 NAME Jean /Laroche-Joubert/
+2 SURN Laroche-Joubert
+2 GIVN Jean
+1 SEX M
+1 DEAT
+2 DATE 14 NOV 1913
+1 BIRT
+2 DATE 12 SEP 1843
+1 FAMS @F195@
+0 @I307@ INDI
+1 NAME Elisabeth /Gout De Bize/
+2 SURN Gout De Bize
+2 GIVN Elisabeth
+1 SEX F
+1 DEAT
+2 DATE 10 OCT 1867
+1 BIRT
+2 DATE 26 AUG 1844
+1 FAMS @F195@
+0 @I308@ INDI
+1 NAME François /Roques/
+2 SURN Roques
+2 GIVN François
+1 SEX M
+1 DEAT
+2 DATE 19 JAN 1887
+1 BIRT
+2 DATE 11 APR 1823
+1 FAMS @F196@
+0 @I309@ INDI
+1 NAME Marie /Rogery/
+2 SURN Rogery
+2 GIVN Marie
+1 SEX F
+1 BIRT
+2 DATE 2 OCT 1834
+1 DEAT
+2 DATE 5 FEB 1911
+1 FAMS @F196@
+0 @I310@ INDI
+1 NAME Arthur /Leyravaud/
+2 SURN Leyravaud
+2 GIVN Arthur
+1 SEX M
+1 BIRT
+2 DATE 5 APR 2012
+1 FAMC @F120@
+0 @I311@ INDI
+1 NAME Louise /Leyravaud/
+2 SURN Leyravaud
+2 GIVN Louise
+1 SEX F
+1 BIRT
+2 DATE 1 FEB 2016
+1 FAMC @F120@
+0 @I312@ INDI
+1 NAME Pierre Alfred /Prévôt/
+2 SURN Prévôt
+2 GIVN Pierre Alfred
+1 SEX M
+1 DEAT
+2 DATE 5 FEB 1896
+1 BIRT
+2 Plac Malzéville
+2 DATE 10 MAY 1835
+1 OCCU Cultivateur
+2 DATE 1862
+1 FAMS @F199@
+1 FAMC @F200@
+0 @I313@ INDI
+1 NAME Marie Virginie /Poirel/
+2 SURN Poirel
+2 GIVN Marie Virginie
+1 SEX F
+1 DEAT
+2 Plac Lay-St-Christophe
+2 DATE 06 JUL 1878
+1 BIRT
+2 Plac Lay-St-Christophe
+2 DATE 27 JUL 1842
+1 FAMS @F199@
+1 FAMC @F668106338@
+0 @I314@ INDI
+1 NAME Pierre /Prévôt/
+2 SURN Prévôt
+2 GIVN Pierre
+1 SEX M
+1 DEAT
+2 Plac Malzéville
+2 DATE 18 JUL 1884
+1 BIRT
+2 Plac Nancy
+2 DATE 09 APR 1805
+1 FAMS @F200@
+1 FAMC @F201@
+0 @I315@ INDI
+1 NAME Catherine /Kiffer/
+2 SURN Kiffer
+2 GIVN Catherine
+1 SEX F
+1 DEAT
+2 Plac Malzéville
+2 DATE 29 MAR 1887
+1 BIRT
+2 Plac Hellimer
+2 DATE 02 APR 1809
+1 NATU
+2 Plac Hellimer
+2 DATE 1872
+1 FAMS @F200@
+1 FAMC @F675063031@
+0 @I316@ INDI
+1 NAME Jean Baptiste /Prévôt/
+2 SURN Prévôt
+2 GIVN Jean Baptiste
+1 SEX M
+1 DEAT
+2 Plac Malzéville
+2 DATE 01 JUL 1819
+1 BIRT
+2 Plac Nancy
+2 DATE 16 APR 1768
+1 OCCU
+2 Plac Sulpteur-Ébéniste
+1 FAMS @F201@
+1 FAMC @F668159501@
+0 @I317@ INDI
+1 NAME Catherine /Miston/
+2 SURN Miston
+2 GIVN Catherine
+1 SEX F
+1 DEAT
+2 DATE 29 NOV 1847
+1 BIRT
+2 DATE 28 NOV 1777
+1 FAMS @F201@
+1 FAMC @F675108604@
+0 @I1557386281@ INDI
+1 NAME Jean /Ravaux/
+2 SURN Ravaux
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 Plac Kuntzig
+2 DATE 30 APR 1811
+1 DEAT
+2 Plac Grindorff-Bizing
+2 DATE 07 SEP 1890
+1 FAMS @F609648383@
+1 FAMC @F666570369@
+0 @I1557386284@ INDI
+1 NAME Catherine /Hilt/
+2 SURN Hilt
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 Plac Grindorff-Bizing
+2 DATE 27 OCT 1818
+1 DEAT
+2 Plac Nancy
+2 DATE 12 JAN 1893
+1 FAMS @F609648383@
+1 FAMC @F668143030@
+0 @I1560807993@ INDI
+1 NAME Ferdinand /Payen/
+2 SURN Payen
+2 GIVN Ferdinand
+1 SEX M
+1 BIRT
+2 Plac Le Quesnoy
+2 DATE 03 JUN 1811
+1 OCCU Tonnelier
+1 FAMS @F611034011@
+1 FAMC @F611418752@
+0 @I1560808029@ INDI
+1 NAME Sophie Amélie /Lancelle/
+2 SURN Lancelle
+2 GIVN Sophie Amélie
+1 SEX F
+1 BIRT
+2 Plac Villers-Pol
+2 DATE ABT 1811
+1 DEAT
+2 Plac Caudry
+2 DATE 23 JAN 1847
+1 FAMS @F611034011@
+1 FAMC @F611034083@
+0 @I1560808187@ INDI
+1 NAME Charles /Lancelle/
+2 SURN Lancelle
+2 GIVN Charles
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F611034083@
+0 @I1560808195@ INDI
+1 NAME Marie Anne /Decosse/
+2 SURN Decosse
+2 GIVN Marie Anne
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F611034083@
+0 @I1561019496@ INDI
+1 NAME François Maximilien /Michie/
+2 SURN Michie
+2 GIVN François Maximilien
+1 SEX M
+1 BIRT
+2 DATE 30 OCT 1785
+1 DEAT
+1 BAPM
+2 Plac Wignehies
+2 DATE 30 OCT 1785
+1 FAMS @F611117321@
+1 FAMC @F611197488@
+0 @I1561020034@ INDI
+1 NAME Jacques Joseph /Hermant/
+2 SURN Hermant
+2 GIVN Jacques Joseph
+1 SEX M
+1 BIRT
+2 Plac Féron
+2 DATE 04 JUN 1796
+1 DEAT
+1 FAMS @F611117567@
+1 FAMC @F611117744@
+0 @I1561020035@ INDI
+1 NAME Therese /Moutier/
+2 SURN Moutier
+2 GIVN Therese
+1 SEX F
+1 FAMS @F611117567@
+0 @I1561020445@ INDI
+1 NAME Jacques Joseph /Hermant/
+2 SURN Hermant
+2 GIVN Jacques Joseph
+1 SEX M
+1 BIRT
+1 DEAT
+2 Plac Féron
+2 DATE 27 JAN 1828
+1 FAMS @F611117744@
+0 @I1561020485@ INDI
+1 NAME Marie Catherine /Boulanger/
+2 SURN Boulanger
+2 GIVN Marie Catherine
+1 SEX F
+1 BIRT
+1 DEAT
+2 Plac Féron
+2 DATE 30 JAN 1810
+1 FAMS @F611117744@
+0 @I1561020861@ INDI
+1 NAME François /Daquet/
+2 SURN Daquet
+2 GIVN François
+1 SEX M
+1 BIRT
+2 Plac Sars-Poteries
+2 DATE 08 FEB 1812
+1 DEAT
+2 Plac St-Aubin
+2 DATE 17 DEC 1870
+1 OCCU Cultivateur
+1 FAMS @F611117925@
+1 FAMC @F611124030@
+0 @I1561034548@ INDI
+1 NAME Alice /Lermusieau/
+2 SURN Lermusieau
+2 GIVN Alice
+1 SEX F
+1 BIRT
+2 Plac St-Aubin
+2 DATE 04 OCT 1850
+1 DEAT
+2 Plac Angers
+2 DATE 02 SEP 1918
+1 CENS
+2 Plac St-Aubin
+2 DATE 1906
+1 FAMS @F79@
+1 FAMC @F611123459@
+0 @I1561034620@ INDI
+1 NAME Zéphir /Lermusieau/
+2 SURN Lermusieau
+2 GIVN Zéphir
+1 SEX M
+1 BIRT
+2 Plac St-Aubin
+2 DATE 03 DEC 1823
+1 DEAT
+2 Plac St-Aubin
+2 DATE 15 SEP 1892
+1 FAMS @F611123459@
+1 FAMC @F611126486@
+0 @I1561034629@ INDI
+1 NAME Zélie /Briatte/
+2 SURN Briatte
+2 GIVN Zélie
+1 SEX F
+1 BIRT
+2 Plac Poix-Du-Nord
+2 DATE 02 NOV 1827
+1 DEAT
+2 Plac St-Aubin
+2 DATE 13 JUL 1907
+1 FAMS @F611123459@
+1 FAMC @F611123677@
+0 @I1561035112@ INDI
+1 NAME Fleurebelle /Briatte/
+2 SURN Briatte
+2 GIVN Fleurebelle
+1 SEX M
+1 BIRT
+2 Plac Poix-Du-Nord
+2 DATE 27 JUL 1792
+1 DEAT
+2 Plac St-Aubin
+2 DATE 09 APR 1874
+1 FAMS @F611123677@
+0 @I1561035136@ INDI
+1 NAME Eléonore /Binot/
+2 SURN Binot
+2 GIVN Eléonore
+1 SEX F
+1 BIRT
+2 Plac St-Aubin
+2 DATE 19 JUL 1793
+1 DEAT
+2 Plac St-Aubin
+2 DATE 11 JAN 1881
+1 FAMS @F611123677@
+1 FAMC @F611125970@
+0 @I1561035928@ INDI
+1 NAME Nicolas /Daquet/
+2 SURN Daquet
+2 GIVN Nicolas
+1 SEX M
+1 BIRT
+2 Plac St-Aubin
+2 DATE 22 APR 1768
+1 DEAT
+2 Plac Hauts-De-France
+1 FAMS @F611124030@
+1 FAMC @F611124041@
+0 @I1561035955@ INDI
+1 NAME Philippe /Daquet/
+2 SURN Daquet
+2 GIVN Philippe
+1 SEX M
+1 FAMS @F611124041@
+0 @I1561035956@ INDI
+1 NAME Madeleine /Melot/
+2 SURN Melot
+2 GIVN Madeleine
+1 SEX F
+1 FAMS @F611124041@
+0 @I1561035983@ INDI
+1 NAME Augustine Josèphe /Buisset/
+2 SURN Buisset
+2 GIVN Augustine Josèphe
+1 SEX F
+1 BIRT
+2 Plac Sars-Poteries
+2 DATE 01 JUN 1772
+1 DEAT
+2 Plac St-Aubin
+2 DATE 18 APR 1851
+1 BAPM
+2 Plac Sars-Poteries
+2 DATE 01 JUN 1772
+1 FAMS @F611124030@
+1 FAMC @F611124204@
+0 @I1561036349@ INDI
+1 NAME Jacques /Buisset/
+2 SURN Buisset
+2 GIVN Jacques
+1 SEX M
+1 BIRT
+2 Plac Sars-Poteries
+2 DATE 30 NOV 1736
+1 DEAT
+2 Plac Sars-Poteries
+2 DATE 14 APR 1811
+1 FAMS @F611124204@
+0 @I1561036376@ INDI
+1 NAME Françoise /Carnoy/
+2 SURN Carnoy
+2 GIVN Françoise
+1 SEX F
+1 BIRT
+2 Plac Wattignies
+2 DATE 10 APR 1734
+1 DEAT
+2 Plac St-Aubin
+2 DATE 08 JAN 1814
+1 FAMS @F611124204@
+0 @I1561039421@ INDI
+1 NAME Nicolas Joseph /Pantenier/
+2 SURN Pantenier
+2 GIVN Nicolas Joseph
+1 SEX M
+1 BIRT
+2 Plac St-Hilaire /S Helpe
+2 DATE 06 SEP 1780
+1 DEAT
+1 BAPM
+2 Plac St-Hilaire /S Helpe
+2 DATE 06 SEP 1780
+1 FAMS @F611125232@
+1 FAMC @F611125421@
+0 @I1561039841@ INDI
+1 NAME Estienne Joseph /Pantenier/
+2 SURN Pantenier
+2 GIVN Estienne Joseph
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F611125421@
+0 @I1561039866@ INDI
+1 NAME Marie Louise /Lenglé/
+2 SURN Lenglé
+2 GIVN Marie Louise
+1 SEX F
+1 BIRT
+1 DEAT
+2 Plac St-Hilaire /S Helpe
+2 DATE ABT 1793
+1 FAMS @F611125421@
+0 @I1561041125@ INDI
+1 NAME Jean Baptiste /Binot/
+2 SURN Binot
+2 GIVN Jean Baptiste
+1 SEX M
+1 BIRT
+2 Plac St-Aubin
+2 DATE 09 MAY 1763
+1 DEAT
+2 Plac St-Aubin
+2 DATE 04 APR 1825
+1 FAMS @F611125970@
+0 @I1561041149@ INDI
+1 NAME Thérèse Eugénie /Ravaux/
+2 SURN Ravaux
+2 GIVN Thérèse Eugénie
+1 SEX F
+1 BIRT
+2 Plac St-Aubin
+2 DATE 28 MAR 1761
+1 DEAT
+1 FAMS @F611125970@
+0 @I1561042449@ INDI
+1 NAME Félix Joseph /Lermusieau/
+2 SURN Lermusieau
+2 GIVN Félix Joseph
+1 SEX M
+1 BIRT
+2 Plac St-Aubin
+2 DATE 27 DEC 1791
+1 DEAT
+1 FAMS @F611126486@
+0 @I1561042466@ INDI
+1 NAME Julie /Renoirt/
+2 SURN Renoirt
+2 GIVN Julie
+1 SEX F
+1 BIRT
+2 Plac Flaumont-Waudrechies
+2 DATE 08 AUG 1790
+1 DEAT
+2 Plac St-Aubin
+2 DATE 30 MAR 1864
+1 FAMS @F611126486@
+1 FAMC @F611147928@
+0 @I1561097832@ INDI
+1 NAME Charles Benoît Joseph /Renoirt/
+2 SURN Renoirt
+2 GIVN Charles Benoît Joseph
+1 SEX M
+1 BIRT
+2 Plac Flaumont-Waudrechies
+2 DATE 09 APR 1761
+1 DEAT
+2 Plac Bas-Lieu
+2 DATE 26 FEB 1847
+1 FAMS @F611147928@
+0 @I1561097883@ INDI
+1 NAME Marie Barbe /Ravaux/
+2 SURN Ravaux
+2 GIVN Marie Barbe
+1 SEX F
+1 BIRT
+2 Plac Flaumont-Waudrechies
+2 DATE 26 OCT 1767
+1 DEAT
+2 Plac Bas-Lieu
+2 DATE 18 JAN 1851
+1 FAMS @F611147928@
+0 @I1561145774@ INDI
+1 NAME Marie Anne /Pecqueux/
+2 SURN Pecqueux
+2 GIVN Marie Anne
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F611125232@
+0 @I1561146230@ INDI
+1 NAME Joachim /Divry/
+2 SURN Divry
+2 GIVN Joachim
+1 SEX M
+1 BIRT
+2 Plac Glageon
+2 DATE 22 FEB 1819
+1 FAMS @F611166698@
+1 FAMC @F611166850@
+0 @I1561146231@ INDI
+1 NAME Augustine /Mehaux/
+2 SURN Mehaux
+2 GIVN Augustine
+1 SEX F
+1 BIRT
+2 DATE 23 OCT 1820
+1 FAMS @F611166698@
+1 FAMC @F611166731@
+0 @I1561146303@ INDI
+1 NAME Nicolas Joseph /Mehaux/
+2 SURN Mehaux
+2 GIVN Nicolas Joseph
+1 SEX M
+1 BIRT
+1 FAMS @F611166731@
+0 @I1561146304@ INDI
+1 NAME Augustine /Payen/
+2 SURN Payen
+2 GIVN Augustine
+1 SEX F
+1 BIRT
+1 FAMS @F611166731@
+0 @I1561146351@ INDI
+1 NAME Charles /Divry/
+2 SURN Divry
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 Plac Glageon
+2 DATE 09 JUL 1851
+1 FAMC @F611166698@
+0 @I1561146575@ INDI
+1 NAME Cyprien Eusèbe /Divry/
+2 SURN Divry
+2 GIVN Cyprien Eusèbe
+1 SEX M
+1 BIRT
+2 Plac Glageon
+2 DATE 10 AUG 1783
+1 DEAT
+2 Plac Glageon
+2 DATE 02 MAY 1854
+1 FAMS @F611166850@
+1 FAMC @F611166912@
+0 @I1561146609@ INDI
+1 NAME Marie Marguerite /Degaigne/
+2 SURN Degaigne
+2 GIVN Marie Marguerite
+1 SEX F
+1 BIRT
+2 Plac Glageon
+2 DATE 03 JUL 1786
+1 DEAT
+2 Plac Glageon
+2 DATE 27 DEC 1866
+1 FAMS @F611166850@
+1 FAMC @F611166896@
+0 @I1561146712@ INDI
+1 NAME Pierre Joseph /Degaigne/
+2 SURN Degaigne
+2 GIVN Pierre Joseph
+1 SEX M
+1 FAMS @F611166896@
+0 @I1561146713@ INDI
+1 NAME Marie Therese /Lefebvre/
+2 SURN Lefebvre
+2 GIVN Marie Therese
+1 SEX F
+1 FAMS @F611166896@
+0 @I1561146744@ INDI
+1 NAME Jean Joseph /Divry/
+2 SURN Divry
+2 GIVN Jean Joseph
+1 SEX M
+1 BIRT
+2 Plac Glageon
+2 DATE 02 JAN 1756
+1 FAMS @F611166912@
+1 FAMC @F611167099@
+0 @I1561146745@ INDI
+1 NAME Marie Louise /Defosset/
+2 SURN Defosset
+2 GIVN Marie Louise
+1 SEX F
+1 BIRT
+2 DATE ABT 1751
+1 FAMS @F611166912@
+0 @I1561147175@ INDI
+1 NAME Joseph /Divry/
+2 SURN Divry
+2 GIVN Joseph
+1 SEX M
+1 FAMS @F611167099@
+0 @I1561147176@ INDI
+1 NAME Jeanne Therese /Palaude/
+2 SURN Palaude
+2 GIVN Jeanne Therese
+1 SEX F
+1 FAMS @F611167099@
+0 @I1561152608@ INDI
+1 NAME Philippe Joseph /Dupont/
+2 SURN Dupont
+2 GIVN Philippe Joseph
+1 SEX M
+1 BIRT
+2 DATE ABT 1787
+1 DEAT
+2 Plac Fumay
+2 DATE 23 JUN 1840
+1 FAMS @F611169822@
+0 @I1561152622@ INDI
+1 NAME Dieudonnée /Bornier/
+2 SURN Bornier
+2 GIVN Dieudonnée
+1 SEX F
+1 BIRT
+1 DEAT
+2 Plac Fumay
+2 DATE 29 AUG 1852
+1 FAMS @F611169822@
+0 @I1561162856@ INDI
+1 NAME Jean Joseph /Clavon/
+2 SURN Clavon
+2 GIVN Jean Joseph
+1 SEX M
+1 BIRT
+2 Plac Floyon
+2 DATE 15 DEC 1741
+1 DEAT
+2 Plac Étrœungt
+2 DATE 28 JAN 1826
+1 OCCU Négociant propriétaire
+1 FAMS @F611173803@
+1 FAMC @F641762182@
+0 @I1561162862@ INDI
+1 NAME Marie Louise /Mengal/
+2 SURN Mengal
+2 GIVN Marie Louise
+1 SEX F
+1 BIRT
+2 Plac Eccles
+2 DATE 28 JUN 1763
+1 DEAT
+2 Plac Fourmies
+2 DATE 19 OCT 1848
+1 BAPM
+2 Plac Dimont
+2 DATE 28 JUN 1763
+1 FAMS @F611173803@
+1 FAMC @F611174116@
+0 @I1561163685@ INDI
+1 NAME Jean Philippe /Mengal/
+2 SURN Mengal
+2 GIVN Jean Philippe
+1 SEX M
+1 FAMS @F611174116@
+0 @I1561163686@ INDI
+1 NAME Marie Jeanne /Bernard/
+2 SURN Bernard
+2 GIVN Marie Jeanne
+1 SEX F
+1 FAMS @F611174116@
+0 @I1561215206@ INDI
+1 NAME Catherine /Jouniaux/
+2 SURN Jouniaux
+2 GIVN Catherine
+1 SEX F
+1 DEAT
+1 BIRT
+2 Plac Trélon
+2 DATE 20 MAR 1783
+1 FAMS @F611117321@
+1 FAMC @F611197491@
+0 @I1561215474@ INDI
+1 NAME François Maximilien /Michie/
+2 SURN Michie
+2 GIVN François Maximilien
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F611197488@
+0 @I1561215483@ INDI
+1 NAME Jean Baptiste /Jouniaux/
+2 SURN Jouniaux
+2 GIVN Jean Baptiste
+1 SEX M
+1 BIRT
+1 FAMS @F611197491@
+0 @I1561215484@ INDI
+1 NAME Marie Anne /Guillain/
+2 SURN Guillain
+2 GIVN Marie Anne
+1 SEX F
+1 BIRT
+1 FAMS @F611197491@
+0 @I1561220168@ INDI
+1 NAME Martin Joseph /Mairesse/
+2 SURN Mairesse
+2 GIVN Martin Joseph
+1 SEX M
+1 BIRT
+2 Plac Ohain
+2 DATE 13 MAY 1753
+1 DEAT
+2 Plac Ohain
+2 DATE 30 SEP 1792
+1 BAPM
+2 Plac Ohain
+2 DATE 14 MAY 1753
+1 OCCU Fabricant de bas
+1 FAMS @F611199661@
+0 @I1561220220@ INDI
+1 NAME Marie Catherine /Gobert/
+2 SURN Gobert
+2 GIVN Marie Catherine
+1 SEX F
+1 BIRT
+2 Plac Ohain
+2 DATE 05 MAR 1757
+1 DEAT
+2 Plac Ohain
+2 DATE 23 AUG 1815
+1 FAMS @F611199661@
+0 @I1561238116@ INDI
+1 NAME Théophile Honoré Joseph /Divry/
+2 SURN Divry
+2 GIVN Théophile Honoré Joseph
+1 SEX M
+1 BIRT
+1 FAMS @F611206990@
+0 @I1561238952@ INDI
+1 NAME Jean /Quenson/
+2 SURN Quenson
+2 GIVN Jean
+1 SEX M
+1 BIRT
+1 DEAT
+2 DATE ABT 1844
+1 FAMS @F611207330@
+0 @I1561238976@ INDI
+1 NAME Séraphine /Hoët/
+2 SURN Hoët
+2 GIVN Séraphine
+1 SEX F
+1 BIRT
+1 DEAT
+2 Plac Caudry
+2 DATE 21 JAN 1814
+1 FAMS @F611207330@
+1 FAMC @F611237292@
+0 @I1561302962@ INDI
+1 NAME Célestin /Hoët/
+2 SURN Hoët
+2 GIVN Célestin
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F611237292@
+0 @I1561313513@ INDI
+1 NAME Jean Baptiste Joseph /Dufranne/
+2 SURN Dufranne
+2 GIVN Jean Baptiste Joseph
+1 SEX M
+1 BIRT
+1 DEAT
+2 DATE 07 FEB 1836
+1 FAMS @F611240968@
+0 @I1561313529@ INDI
+1 NAME Marie Rose /Anciaux/
+2 SURN Anciaux
+2 GIVN Marie Rose
+1 SEX F
+1 BIRT
+2 DATE ABT 1797
+1 DEAT
+1 FAMS @F611240968@
+0 @I1561313822@ INDI
+1 NAME Nicolas Joseph /Lermigeaux/
+2 SURN Lermigeaux
+2 GIVN Nicolas Joseph
+1 SEX M
+1 BIRT
+2 Plac Fourmies
+2 DATE 26 NOV 1792
+1 DEAT
+2 Plac Fourmies
+1 FAMS @F611241095@
+1 FAMC @F611241173@
+0 @I1561313823@ INDI
+1 NAME Florence Joseph /Guillain/
+2 SURN Guillain
+2 GIVN Florence Joseph
+1 SEX F
+1 BIRT
+2 Plac Wignehies
+2 DATE 19 MAR 1802
+1 DEAT
+1 FAMS @F611241095@
+1 FAMC @F611241171@
+0 @I1561314012@ INDI
+1 NAME Jean Philippe /Guillain/
+2 SURN Guillain
+2 GIVN Jean Philippe
+1 SEX M
+1 BIRT
+1 FAMS @F611241171@
+0 @I1561314013@ INDI
+1 NAME Marie Catherine /Boudart/
+2 SURN Boudart
+2 GIVN Marie Catherine
+1 SEX F
+1 BIRT
+1 FAMS @F611241171@
+0 @I1561314018@ INDI
+1 NAME Athanasse /Lermigeaux/
+2 SURN Lermigeaux
+2 GIVN Athanasse
+1 SEX M
+1 BIRT
+2 Plac Fourmies
+2 DATE ABT 1765
+1 DEAT
+2 Plac Fourmies
+2 DATE 16 FEB 1819
+1 FAMS @F611241173@
+1 FAMC @F611418968@
+0 @I1561314019@ INDI
+1 NAME Marie Caroline /Carniaux/
+2 SURN Carniaux
+2 GIVN Marie Caroline
+1 SEX F
+1 BIRT
+2 Plac Fourmies
+2 DATE 21 APR 1760
+1 DEAT
+2 Plac Fourmies
+2 DATE 26 FEB 1846
+1 FAMS @F611241173@
+1 FAMC @F611418948@
+0 @I1561314748@ INDI
+1 NAME Louis Joseph /Ricart/
+2 SURN Ricart
+2 GIVN Louis Joseph
+1 SEX M
+1 BIRT
+2 Plac Rocquigny
+2 DATE 15 JUL 1814
+1 DEAT
+2 Plac Rocquigny
+2 DATE 19 NOV 1894
+1 FAMS @F611241476@
+1 FAMC @F611257337@
+0 @I1561314774@ INDI
+1 NAME Cécile Marie Joseph Désirée /Mézières/
+2 SURN Mézières
+2 GIVN Cécile Marie Joseph Désirée
+1 SEX F
+1 BIRT
+2 DATE ABT 1827
+1 FAMS @F611241476@
+0 @I1561315726@ INDI
+1 NAME Jean Baptiste Théodore /Lelong/
+2 SURN Lelong
+2 GIVN Jean Baptiste Théodore
+1 SEX M
+1 BIRT
+2 Plac St-Michel
+2 DATE ABT 1773
+1 DEAT
+2 Plac St-Michel
+2 DATE 28 JAN 1811
+1 FAMS @F611241925@
+0 @I1561315743@ INDI
+1 NAME Marie Barbe /Gautier/
+2 SURN Gautier
+2 GIVN Marie Barbe
+1 SEX F
+1 BIRT
+2 Plac St-Michel
+2 DATE ABT 1778
+1 DEAT
+2 Plac St-Michel
+2 DATE 18 OCT 1807
+1 FAMS @F611241925@
+0 @I1561316051@ INDI
+1 NAME Jean Baptiste Augustin /Alliaume/
+2 SURN Alliaume
+2 GIVN Jean Baptiste Augustin
+1 SEX M
+1 BIRT
+2 Plac St-Michel
+2 DATE 27 DEC 1786
+1 DEAT
+2 Plac St-Michel
+2 DATE 29 JUL 1846
+1 FAMS @F611242067@
+0 @I1561316065@ INDI
+1 NAME Marie Catherine Angélique /Cusse/
+2 SURN Cusse
+2 GIVN Marie Catherine Angélique
+1 SEX F
+1 BIRT
+2 Plac St-Michel
+2 DATE 01 SEP 1784
+1 DEAT
+2 Plac St-Michel
+2 DATE 06 MAR 1858
+1 FAMS @F611242067@
+1 FAMC @F611252381@
+0 @I1561341724@ INDI
+1 NAME Jacques Louis /Cusse/
+2 SURN Cusse
+2 GIVN Jacques Louis
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F611252381@
+0 @I1561341736@ INDI
+1 NAME Marie Rose /Charton/
+2 SURN Charton
+2 GIVN Marie Rose
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F611252381@
+0 @I1561355911@ INDI
+1 NAME Pierre Ambroise /Moret/
+2 SURN Moret
+2 GIVN Pierre Ambroise
+1 SEX M
+1 BIRT
+2 DATE ABT 1798
+1 DEAT
+2 DATE 15 DEC 1850
+1 FAMS @F611256858@
+1 FAMC @F611276311@
+0 @I1561356051@ INDI
+1 NAME Marie Rose /Vieville/
+2 SURN Vieville
+2 GIVN Marie Rose
+1 SEX F
+1 BIRT
+2 Plac Sains-Richaumont
+2 DATE 16 SEP 1805
+1 FAMS @F611256858@
+1 FAMC @F611257166@
+0 @I1561356633@ INDI
+1 NAME Louis /Vieville/
+2 SURN Vieville
+2 GIVN Louis
+1 SEX M
+1 BIRT
+2 DATE ABT 1777
+1 DEAT
+1 FAMS @F611257166@
+1 FAMC @F611407737@
+0 @I1561356997@ INDI
+1 NAME Narcisse /Ricart/
+2 SURN Ricart
+2 GIVN Narcisse
+1 SEX M
+1 BIRT
+2 Plac Rocquigny
+2 DATE 26 APR 1778
+1 DEAT
+2 Plac Rocquigny
+2 DATE 28 SEP 1837
+1 FAMS @F611257337@
+1 FAMC @F611270344@
+0 @I1561380685@ INDI
+1 NAME Marie Rose Thérèse /Geoffroy/
+2 SURN Geoffroy
+2 GIVN Marie Rose Thérèse
+1 SEX F
+1 BIRT
+2 Plac Rocquigny
+2 DATE 28 AUG 1778
+1 DEAT
+1 FAMS @F611257337@
+1 FAMC @F611273294@
+0 @I1561389757@ INDI
+1 NAME Philippe Alexis /Ricart/
+2 SURN Ricart
+2 GIVN Philippe Alexis
+1 SEX M
+1 BIRT
+2 Plac Rocquigny
+2 DATE ABT 1747
+1 DEAT
+1 FAMS @F611270344@
+0 @I1561389776@ INDI
+1 NAME Marie Louise /Fouan/
+2 SURN Fouan
+2 GIVN Marie Louise
+1 SEX F
+1 BIRT
+2 DATE ABT 1750
+1 DEAT
+2 DATE 27 OCT 1821
+1 FAMS @F611270344@
+0 @I1561396924@ INDI
+1 NAME Philippe /Geoffroy/
+2 SURN Geoffroy
+2 GIVN Philippe
+1 SEX M
+1 BIRT
+2 Plac Rocquigny
+2 DATE 18 OCT 1738
+1 FAMS @F611273294@
+0 @I1561396955@ INDI
+1 NAME Marie Ursule /Landouzy/
+2 SURN Landouzy
+2 GIVN Marie Ursule
+1 SEX F
+1 BIRT
+2 Plac Rocquigny
+2 DATE 07 APR 1736
+1 DEAT
+2 Plac Rocquigny
+2 DATE 21 JAN 1808
+1 FAMS @F611273294@
+0 @I1561404720@ INDI
+1 NAME Pierre /Moret/
+2 SURN Moret
+2 GIVN Pierre
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F611276311@
+0 @I1561404748@ INDI
+1 NAME Marie Rose /Moret/
+2 SURN Moret
+2 GIVN Marie Rose
+1 SEX F
+1 BIRT
+1 DEAT
+2 DATE 26 DEC 1828
+1 FAMS @F611276311@
+0 @I1561404827@ INDI
+1 NAME Marie Rose /Vieville/
+2 SURN Vieville
+2 GIVN Marie Rose
+1 SEX F
+1 BIRT
+2 Plac Sains-Richaumont
+2 DATE ABT 1780
+1 DEAT
+1 FAMS @F611257166@
+1 FAMC @F611276511@
+0 @I1561405136@ INDI
+1 NAME André /Vieville/
+2 SURN Vieville
+2 GIVN André
+1 SEX M
+1 BIRT
+1 FAMS @F611276511@
+0 @I1561405159@ INDI
+1 NAME Marie Françoise /Lequeux/
+2 SURN Lequeux
+2 GIVN Marie Françoise
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F611276511@
+0 @I1561719768@ INDI
+1 NAME Augustin /Vieville/
+2 SURN Vieville
+2 GIVN Augustin
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F611407737@
+0 @I1561719779@ INDI
+1 NAME Marie /Plateau/
+2 SURN Plateau
+2 GIVN Marie
+1 SEX F
+1 BIRT
+1 DEAT
+2 Plac Sains-Richaumont
+2 DATE 29 SEP 1778
+1 FAMS @F611407737@
+0 @I1561743833@ INDI
+1 NAME Jean Louis /Bracq/
+2 SURN Bracq
+2 GIVN Jean Louis
+1 SEX M
+1 BIRT
+2 Plac Caudry
+2 DATE 25 AUG 1723
+1 DEAT
+1 FAMS @F611417111@
+0 @I1561744157@ INDI
+1 NAME Marie Françoise /Rainsval/
+2 SURN Rainsval
+2 GIVN Marie Françoise
+1 SEX F
+1 BIRT
+2 DATE ABT 1728
+1 DEAT
+2 Plac Caudry
+2 DATE 19 APR 1798
+1 FAMS @F611417111@
+0 @I1561745555@ INDI
+1 NAME Sophie /Malézieux/
+2 SURN Malézieux
+2 GIVN Sophie
+1 SEX F
+1 BIRT
+2 Plac Caudry
+2 DATE ABT 1795
+1 DEAT
+2 Plac Caudry
+2 DATE 11 JUN 1873
+1 FAMS @F167@
+1 FAMC @F611418433@
+0 @I1561747205@ INDI
+1 NAME Pierre Joseph /Malézieux/
+2 SURN Malézieux
+2 GIVN Pierre Joseph
+1 SEX M
+1 BIRT
+2 DATE ABT 1765
+1 FAMS @F611418433@
+0 @I1561747237@ INDI
+1 NAME Marie Pacifique Joseph /Caron/
+2 SURN Caron
+2 GIVN Marie Pacifique Joseph
+1 SEX F
+1 BIRT
+2 DATE 26 MAR 1768
+1 DEAT
+1 BAPM
+2 Plac Caudry
+2 DATE 27 MAR 1768
+1 FAMS @F611418433@
+0 @I1561747922@ INDI
+1 NAME Thomas /Payen/
+2 SURN Payen
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F611418752@
+0 @I1561748371@ INDI
+1 NAME Nicolas Joseph /Carniaux/
+2 SURN Carniaux
+2 GIVN Nicolas Joseph
+1 SEX M
+1 BIRT
+2 Plac Fourmies
+1 FAMS @F611418948@
+1 FAMC @F611419010@
+0 @I1561748372@ INDI
+1 NAME Marie Anne /Piette/
+2 SURN Piette
+2 GIVN Marie Anne
+1 SEX F
+1 FAMS @F611418948@
+0 @I1561748422@ INDI
+1 NAME Felix /Lermigeaux/
+2 SURN Lermigeaux
+2 GIVN Felix
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F611418968@
+0 @I1561748439@ INDI
+1 NAME Marie Josephe /Carniaux/
+2 SURN Carniaux
+2 GIVN Marie Josephe
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F611418968@
+0 @I1561748503@ INDI
+1 NAME Nicolas /Carniaux/
+2 SURN Carniaux
+2 GIVN Nicolas
+1 SEX M
+1 BIRT
+1 FAMS @F611419010@
+0 @I1561748504@ INDI
+1 NAME Marie Thérèse /Eliet/
+2 SURN Eliet
+2 GIVN Marie Thérèse
+1 SEX F
+1 BIRT
+1 FAMS @F611419010@
+0 @I1637339814@ INDI
+1 NAME  /Lermigeau/
+2 SURN Lermigeau
+1 SEX M
+1 BIRT
+1 FAMS @F641759030@
+0 @I1637340580@ INDI
+1 NAME Pierre /Antoine/
+2 SURN Antoine
+2 GIVN Pierre
+1 SEX M
+1 BIRT
+2 Plac Nord
+1 DEAT
+1 FAMS @F641759375@
+0 @I1637340581@ INDI
+1 NAME Marguerite /Moustier/
+2 SURN Moustier
+2 GIVN Marguerite
+1 SEX F
+1 BIRT
+2 Plac Wignehies
+1 FAMS @F641759375@
+0 @I1637346983@ INDI
+1 NAME Jean Joseph /Clavon/
+2 SURN Clavon
+2 GIVN Jean Joseph
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F641762182@
+0 @I1637346997@ INDI
+1 NAME Marie Catherine /Hulin/
+2 SURN Hulin
+2 GIVN Marie Catherine
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F641762182@
+0 @I1639537140@ INDI
+1 NAME Pierre Alexandre /Guerit/
+2 SURN Guerit
+2 GIVN Pierre Alexandre
+1 SEX M
+1 BIRT
+2 Plac Féron
+2 DATE 19 APR 1779
+1 DEAT
+1 OCCU Notaire royal
+1 FAMS @F642676803@
+1 FAMC @F642676842@
+0 @I1639537230@ INDI
+1 NAME Pierre Joseph /Guerit/
+2 SURN Guerit
+2 GIVN Pierre Joseph
+1 SEX M
+1 BIRT
+2 Plac Nord
+1 DEAT
+1 OCCU Marchand de bas
+1 FAMS @F642676842@
+0 @I1639537275@ INDI
+1 NAME Marie Angélique /Gillion/
+2 SURN Gillion
+2 GIVN Marie Angélique
+1 SEX F
+1 BIRT
+2 Plac Féron
+2 DATE 27 APR 1749
+1 DEAT
+1 FAMS @F642676842@
+0 @I1639869503@ INDI
+1 NAME Jeanne /Bourdoncle/
+2 SURN Bourdoncle
+2 GIVN Jeanne
+1 SEX F
+1 BIRT
+2 Plac Montricoux
+2 DATE 07 OCT 1797
+1 DEAT
+2 Plac Montricoux
+2 DATE 05 MAR 1854
+1 FAMS @F667198687@
+1 FAMC @F642809490@
+0 @I1639873651@ INDI
+1 NAME Jean /Bourdoncle/
+2 SURN Bourdoncle
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 DATE ABT 1778
+1 DEAT
+2 Plac Montricoux
+1 OCCU Journalier
+1 FAMS @F642809490@
+0 @I1639879266@ INDI
+1 NAME Marie /Moulis/
+2 SURN Moulis
+2 GIVN Marie
+1 SEX F
+1 BIRT
+2 Plac Montricoux
+2 DATE ABT 1774
+1 DEAT
+2 Plac Montricoux
+1 FAMS @F642809490@
+1 FAMC @F668497123@
+0 @I1639949119@ INDI
+1 NAME Antoine /Moulis/
+2 SURN Moulis
+2 GIVN Antoine
+1 SEX M
+1 BIRT
+2 Plac L'Honor-De-Cos
+2 DATE 06 MAY 1800
+1 DEAT
+2 Plac Lamothe-Capdeville
+1 OCCU Aubergiste
+1 FAMS @F667483804@
+1 FAMC @F668163536@
+0 @I1639949155@ INDI
+1 NAME Anne /Gay/
+2 SURN Gay
+2 GIVN Anne
+1 SEX F
+1 BIRT
+2 Plac Nègrepelisse
+2 DATE 03 AUG 1812
+1 DEAT
+2 Plac Lamothe-Capdeville
+2 DATE 10 JUN 1878
+1 FAMS @F667483804@
+1 FAMC @F642839722@
+0 @I1639954746@ INDI
+1 NAME Louis /Gay/
+2 SURN Gay
+2 GIVN Louis
+1 SEX M
+1 BIRT
+2 Plac Albias
+2 DATE 16 DEC 1785
+1 DEAT
+2 Plac Montauban
+2 DATE 25 JAN 1859
+1 OCCU Laboureur
+1 FAMS @F642839722@
+1 FAMC @F668441608@
+0 @I1639954758@ INDI
+1 NAME Catherine /Agard/
+2 SURN Agard
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 Plac St-Étienne-De-Tulmont
+2 DATE 16 APR 1781
+1 DEAT
+2 Plac Tarn-Et-Garonne
+2 DATE BEF 1859
+1 BAPM
+2 Plac St-Étienne-De-Tulmont
+2 DATE 17 APR 1781
+1 FAMS @F642839722@
+1 FAMC @F668321105@
+0 @I1699932444@ INDI
+1 NAME Nicolas /Ravaux/
+2 SURN Ravaux
+2 GIVN Nicolas
+1 SEX M
+1 BIRT
+2 Plac Kuntzig
+2 DATE 1763
+1 DEAT
+2 Plac Kuntzig
+2 DATE 10 MAR 1815
+1 FAMS @F666570369@
+1 FAMC @F666570456@
+0 @I1699932445@ INDI
+1 NAME Marie /Gregoire/
+2 SURN Gregoire
+2 GIVN Marie
+1 SEX F
+1 BIRT
+1 DEAT
+2 Plac Kuntzig
+2 DATE 02 JAN 1844
+1 FAMS @F666570369@
+1 FAMC @F666570401@
+0 @I1699932518@ INDI
+1 NAME Jean /Gregoire/
+2 SURN Gregoire
+2 GIVN Jean
+1 SEX M
+1 FAMS @F666570401@
+0 @I1699932519@ INDI
+1 NAME Barbe /+Maire/
+2 SURN +Maire
+2 GIVN Barbe
+1 SEX F
+1 FAMS @F666570401@
+0 @I1699932667@ INDI
+1 NAME Nicolas /Ravaux/
+2 SURN Ravaux
+2 GIVN Nicolas
+1 SEX M
+1 FAMS @F666570456@
+0 @I1699932668@ INDI
+1 NAME Angélique /Liber/
+2 SURN Liber
+2 GIVN Angélique
+1 SEX F
+1 BIRT
+1 FAMS @F666570456@
+0 @I1700384502@ INDI
+1 NAME Jean François /Balaÿ/
+2 SURN Balaÿ
+2 GIVN Jean François
+1 SEX M
+1 BIRT
+2 Plac St-Didier-Sous-Riverie
+2 DATE 05 OCT 1795
+1 DEAT
+1 FAMS @F666758642@
+1 FAMC @F667507514@
+0 @I1700384624@ INDI
+1 NAME Louise Agathe /Gagnat/
+2 SURN Gagnat
+2 GIVN Louise Agathe
+1 SEX F
+1 BIRT
+2 Plac Joyeuse
+2 DATE 1812
+1 DEAT
+1 FAMS @F666758642@
+1 FAMC @F667510811@
+0 @I1700454035@ INDI
+1 NAME Jean /Ambayrac/
+2 SURN Ambayrac
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 Plac Mirabel
+2 DATE 17 DEC 1862
+1 DEAT
+2 Plac Mirabel
+1 FAMS @F666786733@
+1 FAMC @F667047486@
+0 @I1700454071@ INDI
+1 NAME Jeanne /Rives/
+2 SURN Rives
+2 GIVN Jeanne
+1 SEX F
+1 BIRT
+2 Plac Mirabel
+2 DATE 17 JAN 1865
+1 DEAT
+2 Plac Mirabel
+1 FAMS @F666786733@
+1 FAMC @F667293758@
+0 @I1700499928@ INDI
+1 NAME Jean Claude /Charavay/
+2 SURN Charavay
+2 GIVN Jean Claude
+1 SEX M
+1 BIRT
+2 Plac St-Genis-Les-Ollières
+2 DATE 12 AUG 1826
+1 DEAT 6 boulevard Voltaire, 11e
+2 Plac Paris
+2 DATE 18 DEC 1881
+1 OCCU Marchand de beurre
+2 Plac Paris
+1 BURI Inhumation
+2 Plac Ivry /S Seine
+2 DATE 20 DEC 1881
+1 FAMS @F666804813@
+1 FAMC @F666837662@
+0 @I1700499942@ INDI
+1 NAME Anne Clarice Justine /Rogier/
+2 SURN Rogier
+2 GIVN Anne Clarice Justine
+1 SEX F
+1 BIRT
+2 Plac Largentière
+2 DATE 05 AUG 1829
+1 DEAT
+2 Plac St-Étienne
+1 FAMS @F666804813@
+1 FAMC @F666837732@
+0 @I1700581014@ INDI
+1 NAME André /Charavay/
+2 SURN Charavay
+2 GIVN André
+1 SEX M
+1 BIRT
+2 Plac St-Genis-Les-Ollières
+2 DATE 25 SEP 1789
+1 DEAT
+2 Plac Écully
+2 DATE 30 APR 1867
+1 FAMS @F666837662@
+1 FAMC @F666932361@
+0 @I1700581023@ INDI
+1 NAME Barthélémie /Collas/
+2 SURN Collas
+2 GIVN Barthélémie
+1 SEX F
+1 BIRT
+2 Plac Rhône
+1 DEAT
+2 Plac St-Genis-Les-Ollières
+2 DATE BEF 1851
+1 FAMS @F666837662@
+0 @I1700581161@ INDI
+1 NAME Victorin /Rogier/
+2 SURN Rogier
+2 GIVN Victorin
+1 SEX M
+1 BIRT
+2 Plac Ardèche
+1 DEAT
+1 FAMS @F666837732@
+0 @I1700581186@ INDI
+1 NAME Anne Victoire /Gagnat/
+2 SURN Gagnat
+2 GIVN Anne Victoire
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F666837732@
+0 @I1700843741@ INDI
+1 NAME Jean /Charavay/
+2 SURN Charavay
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 Plac St-Genis-Les-Ollières
+2 DATE 29 MAR 1753
+1 DEAT
+2 Plac St-Genis-Les-Ollières
+2 DATE 26 DEC 1820
+1 FAMS @F666932361@
+0 @I1700844492@ INDI
+1 NAME Guillermine /Vuldy/
+2 SURN Vuldy
+2 GIVN Guillermine
+1 SEX F
+1 BIRT
+2 Plac St-Genis-Les-Ollières
+2 DATE 14 SEP 1762
+1 DEAT
+2 Plac St-Genis-Les-Ollières
+2 DATE 03 APR 1815
+1 FAMS @F666932361@
+1 FAMC @F667019444@
+0 @I1701074489@ INDI
+1 NAME Etienne /Vuldy/
+2 SURN Vuldy
+2 GIVN Etienne
+1 SEX M
+1 BIRT
+2 Plac St-Genis-Les-Ollières
+2 DATE 20 NOV 1735
+1 DEAT
+2 Plac St-Genis-Les-Ollières
+2 DATE 27 NOV 1803
+1 BAPM
+2 Plac St-Genis-Les-Ollières
+2 DATE 21 NOV 1735
+1 FAMS @F667019444@
+1 FAMC @F667027348@
+0 @I1701081625@ INDI
+1 NAME Catherine /De Palme/
+2 SURN De Palme
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 Plac St-Genis-Les-Ollières
+2 DATE 08 JUL 1734
+1 DEAT
+2 Plac St-Genis-Les-Ollières
+2 DATE 23 DEC 1801
+1 FAMS @F667019444@
+0 @I1701097310@ INDI
+1 NAME Jean /Vuldy/
+2 SURN Vuldy
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 Plac St-Genis-Les-Ollières
+2 DATE 20 FEB 1711
+1 DEAT
+2 Plac St-Genis-Les-Ollières
+2 DATE 02 FEB 1762
+1 FAMS @F667027348@
+0 @I1701097748@ INDI
+1 NAME Izabeau /Fuchier/
+2 SURN Fuchier
+2 GIVN Izabeau
+1 SEX F
+1 BIRT
+2 Plac St-Genis-Les-Ollières
+2 DATE 07 DEC 1709
+1 DEAT
+2 Plac St-Genis-Les-Ollières
+2 DATE 23 FEB 1793
+1 FAMS @F667027348@
+0 @I1701152237@ INDI
+1 NAME François /Ambayrac/
+2 SURN Ambayrac
+2 GIVN François
+1 SEX M
+1 BIRT
+2 Plac Mirabel
+2 DATE ABT 1835
+1 DEAT
+2 Plac Mirabel
+2 DATE 29 SEP 1896
+1 CENS
+2 Plac Mirabel
+2 DATE 1872
+1 FAMS @F667047486@
+1 FAMC @F667407034@
+0 @I1701152279@ INDI
+1 NAME Antoinette /Costes/
+2 SURN Costes
+2 GIVN Antoinette
+1 SEX F
+1 BIRT
+2 Plac St-Vincent-D'Autéjac
+2 DATE ABT 1836
+1 DEAT
+1 CENS
+2 Plac Mirabel
+2 DATE 1872
+1 FAMS @F667047486@
+1 FAMC @F667407082@
+0 @I1701526563@ INDI
+1 NAME Louis Augustin /Arbus/
+2 SURN Arbus
+2 GIVN Louis Augustin
+1 SEX M
+1 BIRT
+2 Plac Tarn-Et-Garonne
+2 DATE ABT 1795
+1 DEAT
+2 Plac Montricoux
+2 DATE AFT 1872
+1 FAMS @F667198687@
+0 @I1701708342@ INDI
+1 NAME Anne /Moulis/
+2 SURN Moulis
+2 GIVN Anne
+1 SEX F
+1 BIRT
+2 Plac Lamothe-Capdeville
+2 DATE 04 APR 1852
+1 DEAT
+2 Plac Tarn-Et-Garonne
+1 FAMS @F13@
+1 FAMC @F667483804@
+0 @I1701753894@ INDI
+1 NAME Jean /Rives/
+2 SURN Rives
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 Plac Mirabel
+2 DATE 11 NOV 1837
+1 DEAT
+1 CENS
+2 Plac Mirabel
+2 DATE 1906
+1 FAMS @F667293758@
+1 FAMC @F667294137@
+0 @I1701753932@ INDI
+1 NAME Anne /Saint-Jean/
+2 SURN Saint-Jean
+2 GIVN Anne
+1 SEX F
+1 BIRT
+2 Plac Mirabel
+2 DATE 01 MAY 1836
+1 DEAT
+2 Plac Mirabel
+1 FAMS @F667293758@
+1 FAMC @F667294156@
+0 @I1701754769@ INDI
+1 NAME Jean /Rives/
+2 SURN Rives
+2 GIVN Jean
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F667294137@
+0 @I1701754792@ INDI
+1 NAME Antoinette /Delcasse/
+2 SURN Delcasse
+2 GIVN Antoinette
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F667294137@
+0 @I1701754819@ INDI
+1 NAME Antoine /De Saint-Jean/
+2 SURN De Saint-Jean
+2 GIVN Antoine
+1 SEX M
+1 BIRT
+2 Plac Mirabel
+2 DATE 08 JUN 1802
+1 DEAT
+1 FAMS @F667294156@
+1 FAMC @F668365448@
+0 @I1701754848@ INDI
+1 NAME Antoinette /Ambayrac/
+2 SURN Ambayrac
+2 GIVN Antoinette
+1 SEX F
+1 BIRT
+2 Plac Réalville
+2 DATE 26 FEB 1814
+1 DEAT
+1 FAMS @F667294156@
+0 @I1702054466@ INDI
+1 NAME Jean /Ambayrac/
+2 SURN Ambayrac
+2 GIVN Jean
+1 SEX M
+1 BIRT
+2 Plac Mirabel
+1 DEAT
+2 Plac Mirabel
+1 FAMS @F667407034@
+0 @I1702054480@ INDI
+1 NAME Françoise /Panissié/
+2 SURN Panissié
+2 GIVN Françoise
+1 SEX F
+1 BIRT
+2 Plac L'Honor-De-Cos
+2 DATE 09 MAY 1817
+1 DEAT
+1 FAMS @F667407034@
+0 @I1702054567@ INDI
+1 NAME Jean /Costes/
+2 SURN Costes
+2 GIVN Jean
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F667407082@
+0 @I1702054575@ INDI
+1 NAME Jeanne /Viguié/
+2 SURN Viguié
+2 GIVN Jeanne
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F667407082@
+0 @I1702241298@ INDI
+1 NAME Eugénie /Moulis/
+2 SURN Moulis
+2 GIVN Eugénie
+1 SEX F
+1 BIRT
+2 Plac Lamothe-Capdeville
+2 DATE 12 AUG 1831
+1 DEAT
+2 Plac Montauban
+2 DATE 01 APR 1872
+1 FAMS @F667483750@
+1 FAMC @F667483804@
+0 @I1702314456@ INDI
+1 NAME Claude /Balaÿ/
+2 SURN Balaÿ
+2 GIVN Claude
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F667507514@
+0 @I1702314488@ INDI
+1 NAME Marie-Anne /Vierne/
+2 SURN Vierne
+2 GIVN Marie-Anne
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F667507514@
+0 @I1702322638@ INDI
+1 NAME Pierre /Gagnat/
+2 SURN Gagnat
+2 GIVN Pierre
+1 SEX M
+1 BIRT
+2 Plac Joyeuse
+2 DATE ABT 1774
+1 DEAT
+2 Plac Uzer
+2 DATE 29 APR 1847
+1 FAMS @F667510811@
+0 @I1702322680@ INDI
+1 NAME Marie /Lebre/
+2 SURN Lebre
+2 GIVN Marie
+1 SEX F
+1 BIRT
+2 Plac Ardèche
+2 DATE ABT 1773
+1 DEAT
+2 Plac Joyeuse
+2 DATE 17 MAR 1859
+1 FAMS @F667510811@
+0 @I1703825186@ INDI
+1 NAME Jean Baptiste /Poirel/
+2 SURN Poirel
+2 GIVN Jean Baptiste
+1 SEX M
+1 BIRT
+2 Plac Lay-St-Christophe
+2 DATE 02 JUL 1801
+1 OCCU Cultivateur
+2 DATE 1876
+1 DEAT
+2 Plac Lay-St-Christophe
+2 DATE 30 AUG 1876
+1 FAMS @F668106338@
+1 FAMC @F668127875@
+0 @I1703825187@ INDI
+1 NAME Marguerite Claire /Méline/
+2 SURN Méline
+2 GIVN Marguerite Claire
+1 SEX F
+1 BIRT
+2 Plac Lay-St-Christophe
+2 DATE 24 MAY 1812
+1 DEAT
+2 Plac Le Havre
+2 DATE 10 MAR 1901
+1 FAMS @F668106338@
+1 FAMC @F668127877@
+0 @I1703877882@ INDI
+1 NAME Jean Baptiste /Poirel/
+2 SURN Poirel
+2 GIVN Jean Baptiste
+1 SEX M
+1 BIRT
+1 FAMS @F668127875@
+0 @I1703877883@ INDI
+1 NAME Marie /Sauffroy/
+2 SURN Sauffroy
+2 GIVN Marie
+1 SEX F
+1 BIRT
+1 FAMS @F668127875@
+0 @I1703877891@ INDI
+1 NAME Nicolas /Méline/
+2 SURN Méline
+2 GIVN Nicolas
+1 SEX M
+1 BIRT
+2 DATE ABT 1781
+1 DEAT
+1 FAMS @F668127877@
+0 @I1703877893@ INDI
+1 NAME Anne /Munier/
+2 SURN Munier
+2 GIVN Anne
+1 SEX F
+1 BIRT
+1 FAMS @F668127877@
+0 @I1703917304@ INDI
+1 NAME Pierre /Hilt/
+2 SURN Hilt
+2 GIVN Pierre
+1 SEX M
+1 BIRT
+2 Plac Grindorff-Bizing
+2 DATE 01 JUN 1790
+1 DEAT
+2 Plac Grindorff-Bizing
+2 DATE 05 SEP 1822
+1 FAMS @F668143030@
+1 FAMC @F668143107@
+0 @I1703917434@ INDI
+1 NAME Catherine /Long/
+2 SURN Long
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 DATE ABT 1789
+1 DEAT
+2 Plac Grindorff-Bizing
+2 DATE 12 OCT 1839
+1 FAMS @F668143030@
+1 FAMS @F675171160@
+1 FAMC @F668143147@
+0 @I1703917527@ INDI
+1 NAME Michel /Hilt/
+2 SURN Hilt
+2 GIVN Michel
+1 SEX M
+1 BIRT
+2 Plac Grindorff-Bizing
+2 DATE 13 FEB 1759
+1 DEAT
+2 Plac Grindorff-Bizing
+2 DATE 17 SEP 1833
+1 FAMS @F668143107@
+1 FAMC @F668151249@
+0 @I1703917581@ INDI
+1 NAME Suzanne /Bettenfeld/
+2 SURN Bettenfeld
+2 GIVN Suzanne
+1 SEX F
+1 BIRT
+2 Plac Kirschnaumen
+2 DATE 21 OCT 1764
+1 DEAT
+2 Plac Grindorff-Bizing
+2 DATE 04 OCT 1816
+1 FAMS @F668143107@
+0 @I1703917624@ INDI
+1 NAME Jean Pierre /Long/
+2 SURN Long
+2 GIVN Jean Pierre
+1 SEX M
+1 BIRT
+2 Plac Waldweistroff
+2 DATE 25 FEB 1763
+1 DEAT
+2 Plac Grindorff-Bizing
+2 DATE 05 DEC 1815
+1 FAMS @F668143147@
+0 @I1703917648@ INDI
+1 NAME Catherine /Mathis/
+2 SURN Mathis
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 Plac Grindorff-Bizing
+2 DATE ABT 1761
+1 DEAT
+2 Plac Grindorff-Bizing
+2 DATE 19 JAN 1842
+1 FAMS @F668143147@
+1 FAMC @F668502538@
+0 @I1703939112@ INDI
+1 NAME Michel /Hilt/
+2 SURN Hilt
+2 GIVN Michel
+1 SEX M
+1 BIRT
+2 Plac Guerstling
+2 DATE 05 MAR 1735
+1 DEAT
+2 Plac Grindorff-Bizing
+2 DATE 12 MAR 1800
+1 FAMS @F668151249@
+1 FAMC @F668152242@
+0 @I1703939133@ INDI
+1 NAME Suzanne /Ketzinger/
+2 SURN Ketzinger
+2 GIVN Suzanne
+1 SEX F
+1 BIRT
+2 Plac Grindorff-Bizing
+2 DATE 05 MAR 1737
+1 DEAT
+2 Plac Grindorff-Bizing
+2 DATE 08 MAR 1791
+1 FAMS @F668151249@
+0 @I1703941403@ INDI
+1 NAME Michel /Hilt/
+2 SURN Hilt
+2 GIVN Michel
+1 SEX M
+1 FAMS @F668152242@
+0 @I1703941404@ INDI
+1 NAME Françoise /Venner/
+2 SURN Venner
+2 GIVN Françoise
+1 SEX F
+1 FAMS @F668152242@
+0 @I1703960539@ INDI
+1 NAME Jean /Prévôt/
+2 SURN Prévôt
+2 GIVN Jean
+1 SEX M
+1 BIRT Département du Rhin
+2 Plac Trèves
+2 DATE 1723
+1 OCCU Ebéniste
+2 Plac Nancy
+1 DEAT
+2 Plac Nancy
+2 DATE 25 JUN 1805
+1 FAMS @F668159501@
+0 @I1703960540@ INDI
+1 NAME Thérèse /Lemestroff/
+2 SURN Lemestroff
+2 GIVN Thérèse
+1 SEX F
+1 BIRT
+2 Plac Nancy
+2 DATE 1735
+1 DEAT
+2 Plac Nancy
+2 DATE 20 SEP 1814
+1 FAMS @F668159501@
+0 @I1703972368@ INDI
+1 NAME Jean /Moulis/
+2 SURN Moulis
+2 GIVN Jean
+1 SEX M
+1 BIRT
+1 DEAT
+2 Plac L'Honor-De-Cos
+1 FAMS @F668163536@
+0 @I1703972398@ INDI
+1 NAME Françoise /Lacoste/
+2 SURN Lacoste
+2 GIVN Françoise
+1 SEX F
+1 BIRT
+2 Plac Tarn-Et-Garonne
+1 DEAT
+1 FAMS @F668163536@
+0 @I1704315667@ INDI
+1 NAME Jean /Agard/
+2 SURN Agard
+2 GIVN Jean
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F668321105@
+0 @I1704315828@ INDI
+1 NAME Izabeau /Lafage/
+2 SURN Lafage
+2 GIVN Izabeau
+1 SEX F
+1 BIRT
+2 Plac St-Étienne-De-Tulmont
+2 DATE 17 SEP 1748
+1 DEAT
+2 Plac St-Étienne-De-Tulmont
+2 DATE 23 JAN 1827
+1 BAPM
+2 Plac St-Étienne-De-Tulmont
+2 DATE 22 SEP 1748
+1 FAMS @F668321105@
+0 @I1704417468@ INDI
+1 NAME Pierre /De Saint-Jean/
+2 SURN De Saint-Jean
+2 GIVN Pierre
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F668365448@
+0 @I1704417477@ INDI
+1 NAME Anne /Seguy/
+2 SURN Seguy
+2 GIVN Anne
+1 SEX F
+1 BIRT
+1 FAMS @F668365448@
+0 @I1704639373@ INDI
+1 NAME Antoine /Gay/
+2 SURN Gay
+2 GIVN Antoine
+1 SEX M
+1 BIRT
+2 Plac Montauban
+2 DATE ABT 1748
+1 DEAT
+2 Plac Nègrepelisse
+2 DATE 04 SEP 1810
+1 FAMS @F668441608@
+0 @I1704639382@ INDI
+1 NAME Antoinette /Bonafil/
+2 SURN Bonafil
+2 GIVN Antoinette
+1 SEX F
+1 BIRT
+2 Plac Puycornet
+2 DATE 16 APR 1754
+1 DEAT
+1 FAMS @F668441608@
+0 @I1704771989@ INDI
+1 NAME Pierre /Moulis/
+2 SURN Moulis
+2 GIVN Pierre
+1 SEX M
+1 BIRT
+1 DEAT
+1 FAMS @F668497123@
+0 @I1704772007@ INDI
+1 NAME Marie /Lacroix/
+2 SURN Lacroix
+2 GIVN Marie
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F668497123@
+0 @I1704785286@ INDI
+1 NAME François /Mathis/
+2 SURN Mathis
+2 GIVN François
+1 SEX M
+1 BIRT
+1 FAMS @F668502538@
+0 @I1704785287@ INDI
+1 NAME Catherine /Tritz/
+2 SURN Tritz
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+1 FAMS @F668502538@
+0 @I1721204253@ INDI
+1 NAME  /Kiffer/
+2 SURN Kiffer
+1 SEX M
+1 BIRT
+1 DEAT
+2 Plac Hellimer
+1 FAMS @F675063031@
+0 @I1721204279@ INDI
+1 NAME Marie Catherine /Betting/
+2 SURN Betting
+2 GIVN Marie Catherine
+1 SEX F
+1 BIRT
+1 DEAT
+2 Plac Hellimer
+1 FAMS @F675063031@
+0 @I1721317266@ INDI
+1 NAME Claude /Miston/
+2 SURN Miston
+2 GIVN Claude
+1 SEX M
+1 FAMS @F675108604@
+0 @I1721317267@ INDI
+1 NAME Marie Catherine /Barthelemi/
+2 SURN Barthelemi
+2 GIVN Marie Catherine
+1 SEX F
+1 BIRT
+1 DEAT
+1 FAMS @F675108604@
+0 @I1721490723@ INDI
+1 NAME François /Hilt/
+2 SURN Hilt
+2 GIVN François
+1 SEX M
+1 BIRT
+1 FAMS @F675171160@
+0 @F68@ FAM
+1 HUSB @I124@
+1 WIFE @I123@
+1 CHIL @I188@
+1 MARR
+2 Plac Fourmies
+2 DATE DEC 1798
+0 @F23@ FAM
+1 HUSB @I43@
+1 WIFE @I42@
+1 CHIL @I41@
+0 @F58@ FAM
+1 HUSB @I108@
+1 WIFE @I107@
+1 CHIL @I213@
+1 CHIL @I214@
+1 CHIL @I215@
+0 @F22@ FAM
+1 HUSB @I41@
+1 WIFE @I40@
+0 @F20@ FAM
+1 HUSB @I37@
+1 WIFE @I38@
+0 @F19@ FAM
+1 HUSB @I35@
+1 WIFE @I36@
+1 CHIL @I39@
+0 @F18@ FAM
+1 HUSB @I34@
+1 WIFE @I33@
+1 CHIL @I210@
+1 CHIL @I211@
+0 @F17@ FAM
+1 HUSB @I31@
+1 WIFE @I32@
+1 CHIL @I33@
+1 CHIL @I35@
+1 CHIL @I37@
+0 @F37@ FAM
+1 HUSB @I69@
+1 WIFE @I68@
+1 CHIL @I235@
+1 CHIL @I236@
+1 CHIL @I237@
+0 @F168@ FAM
+1 HUSB @I256@
+1 WIFE @I257@
+1 CHIL @I254@
+1 MARR
+2 Plac Caudry
+2 DATE 23 JAN 1781
+0 @F165@ FAM
+1 HUSB @I251@
+1 WIFE @I250@
+0 @F201@ FAM
+1 HUSB @I316@
+1 WIFE @I317@
+1 CHIL @I314@
+1 MARB
+2 Plac Nancy
+2 DATE 16 APR 1800
+1 MARR
+2 Plac Malzéville
+2 DATE 20 APR 1801
+0 @F200@ FAM
+1 HUSB @I314@
+1 WIFE @I315@
+1 CHIL @I312@
+1 MARR
+2 Plac Hellimer
+2 DATE 05 SEP 1831
+0 @F199@ FAM
+1 HUSB @I312@
+1 WIFE @I313@
+1 CHIL @I208@
+1 MARR
+2 Plac Lay-St-Christophe
+2 DATE 04 JUN 1862
+0 @F129@ FAM
+1 HUSB @I212@
+1 CHIL @I108@
+0 @F175@ FAM
+1 HUSB @I269@
+1 WIFE @I270@
+1 CHIL @I266@
+0 @F31@ FAM
+1 HUSB @I57@
+1 WIFE @I58@
+1 CHIL @I59@
+1 CHIL @I216@
+1 CHIL @I217@
+1 CHIL @I219@
+1 CHIL @I220@
+0 @F196@ FAM
+1 HUSB @I308@
+1 WIFE @I309@
+1 CHIL @I304@
+0 @F195@ FAM
+1 HUSB @I306@
+1 WIFE @I307@
+1 CHIL @I305@
+0 @F194@ FAM
+1 HUSB @I304@
+1 WIFE @I305@
+1 CHIL @I302@
+0 @F79@ FAM
+1 HUSB @I140@
+1 WIFE @I1561034548@
+1 CHIL @I84@
+0 @F77@ FAM
+1 WIFE @I138@
+1 CHIL @I245@
+0 @F33@ FAM
+1 HUSB @I60@
+1 WIFE @I61@
+1 CHIL @I62@
+0 @F24@ FAM
+1 HUSB @I44@
+1 WIFE @I45@
+1 CHIL @I46@
+0 @F64@ FAM
+1 HUSB @I116@
+1 WIFE @I115@
+1 CHIL @I134@
+1 CHIL @I181@
+0 @F123@ FAM
+1 HUSB @I204@
+1 WIFE @I205@
+1 CHIL @I196@
+1 MARR
+2 Plac Rocquigny
+2 DATE 17 NOV 1868
+0 @F120@ FAM
+1 HUSB @I201@
+1 CHIL @I310@
+1 CHIL @I311@
+0 @F117@ FAM
+1 HUSB @I197@
+1 WIFE @I198@
+1 CHIL @I199@
+1 CHIL @I200@
+0 @F116@ FAM
+1 HUSB @I195@
+1 WIFE @I196@
+1 CHIL @I102@
+1 MARR
+2 Plac Fourmies
+2 DATE 26 OCT 1896
+0 @F39@ FAM
+1 HUSB @I71@
+1 WIFE @I72@
+1 CHIL @I73@
+1 MARR
+2 Plac Fourmies
+2 DATE 04 AUG 1661
+0 @F113@ FAM
+1 HUSB @I191@
+1 WIFE @I192@
+0 @F112@ FAM
+1 HUSB @I189@
+1 WIFE @I190@
+1 CHIL @I116@
+0 @F111@ FAM
+1 HUSB @I188@
+1 WIFE @I187@
+1 CHIL @I51@
+1 CHIL @I82@
+1 MARR
+2 Plac Fourmies
+2 DATE 31 DEC 1829
+0 @F110@ FAM
+1 HUSB @I185@
+1 WIFE @I186@
+1 CHIL @I187@
+0 @F109@ FAM
+1 HUSB @I183@
+1 WIFE @I184@
+1 CHIL @I185@
+0 @F126@ FAM
+1 HUSB @I209@
+1 WIFE @I208@
+1 CHIL @I127@
+1 MARR
+2 Plac Lay-St-Christophe
+2 DATE 14 JAN 1885
+0 @F108@ FAM
+1 HUSB @I181@
+1 WIFE @I182@
+1 CHIL @I183@
+0 @F106@ FAM
+1 HUSB @I179@
+1 CHIL @I246@
+1 CHIL @I247@
+0 @F105@ FAM
+1 HUSB @I178@
+1 WIFE @I177@
+1 CHIL @I100@
+1 MARR
+2 Plac Caudry
+2 DATE 08 SEP 1858
+0 @F103@ FAM
+1 HUSB @I174@
+1 WIFE @I175@
+1 CHIL @I80@
+0 @F102@ FAM
+1 HUSB @I172@
+1 WIFE @I173@
+0 @F95@ FAM
+1 HUSB @I164@
+1 WIFE @I165@
+1 CHIL @I88@
+1 CHIL @I148@
+1 CHIL @I166@
+1 CHIL @I167@
+1 CHIL @I168@
+1 CHIL @I169@
+1 CHIL @I170@
+0 @F30@ FAM
+1 HUSB @I56@
+1 WIFE @I55@
+1 CHIL @I143@
+0 @F94@ FAM
+1 HUSB @I162@
+1 WIFE @I163@
+1 CHIL @I164@
+0 @F69@ FAM
+1 HUSB @I125@
+1 WIFE @I30@
+1 CHIL @I126@
+0 @F35@ FAM
+1 HUSB @I65@
+1 WIFE @I64@
+1 CHIL @I193@
+1 CHIL @I231@
+1 CHIL @I232@
+1 CHIL @I233@
+1 CHIL @I234@
+0 @F29@ FAM
+1 HUSB @I54@
+1 WIFE @I53@
+1 CHIL @I194@
+0 @F177@ FAM
+1 HUSB @I273@
+1 WIFE @I274@
+1 CHIL @I271@
+0 @F176@ FAM
+1 HUSB @I271@
+1 WIFE @I272@
+1 CHIL @I124@
+0 @F70@ FAM
+1 HUSB @I127@
+1 WIFE @I126@
+1 CHIL @I27@
+1 CHIL @I258@
+1 MARR
+2 Plac Paris
+2 DATE 11 NOV 1919
+0 @F178@ FAM
+1 HUSB @I275@
+1 WIFE @I276@
+1 CHIL @I273@
+0 @F89@ FAM
+1 HUSB @I156@
+1 WIFE @I157@
+1 CHIL @I162@
+1 MARR
+2 Plac Ohain
+2 DATE 12 FEB 1812
+0 @F144@ FAM
+1 HUSB @I228@
+1 WIFE @I229@
+1 CHIL @I230@
+0 @F71@ FAM
+1 HUSB @I128@
+1 CHIL @I244@
+0 @F180@ FAM
+1 HUSB @I279@
+1 WIFE @I280@
+1 CHIL @I277@
+0 @F57@ FAM
+1 HUSB @I105@
+1 WIFE @I106@
+1 CHIL @I110@
+1 CHIL @I111@
+1 CHIL @I114@
+0 @F173@ FAM
+1 HUSB @I265@
+1 WIFE @I266@
+1 CHIL @I261@
+0 @F56@ FAM
+1 HUSB @I104@
+1 WIFE @I103@
+1 CHIL @I198@
+1 CHIL @I201@
+1 CHIL @I202@
+0 @F38@ FAM
+1 HUSB @I70@
+1 CHIL @I71@
+0 @F55@ FAM
+1 HUSB @I101@
+1 WIFE @I102@
+1 CHIL @I95@
+1 CHIL @I248@
+1 CHIL @I249@
+1 CHIL @I250@
+1 CHIL @I252@
+1 MARR
+2 Plac Fourmies
+2 DATE 26 MAR 1921
+0 @F54@ FAM
+1 HUSB @I99@
+1 WIFE @I100@
+1 CHIL @I101@
+1 MARR
+2 Plac Caudry
+2 DATE 27 OCT 1888
+0 @F34@ FAM
+1 HUSB @I63@
+1 WIFE @I62@
+1 CHIL @I145@
+1 MARR
+2 Plac Glageon
+2 DATE 24 NOV 1813
+0 @F53@ FAM
+1 HUSB @I97@
+1 WIFE @I98@
+1 CHIL @I99@
+1 MARR
+2 Plac Caudry
+2 DATE 08 MAY 1850
+0 @F67@ FAM
+1 HUSB @I121@
+1 WIFE @I122@
+1 CHIL @I123@
+0 @F51@ FAM
+1 HUSB @I95@
+1 WIFE @I94@
+1 CHIL @I1@
+1 CHIL @I32@
+1 CHIL @I103@
+1 CHIL @I105@
+1 CHIL @I107@
+1 MARR
+2 Plac Bergerac
+2 DATE 2 DEC 1951
+0 @F50@ FAM
+1 HUSB @I93@
+1 WIFE @I92@
+1 CHIL @I179@
+1 CHIL @I180@
+1 CHIL @I221@
+1 CHIL @I222@
+1 CHIL @I223@
+0 @F48@ FAM
+1 HUSB @I90@
+1 WIFE @I89@
+1 CHIL @I176@
+1 CHIL @I224@
+1 CHIL @I225@
+1 CHIL @I227@
+1 CHIL @I228@
+0 @F166@ FAM
+1 HUSB @I253@
+1 WIFE @I252@
+0 @F47@ FAM
+1 HUSB @I88@
+1 WIFE @I87@
+1 CHIL @I171@
+0 @F46@ FAM
+1 HUSB @I85@
+1 WIFE @I86@
+1 CHIL @I58@
+1 CHIL @I64@
+1 CHIL @I66@
+1 CHIL @I68@
+1 CHIL @I89@
+1 CHIL @I91@
+1 CHIL @I92@
+1 CHIL @I94@
+1 CHIL @I96@
+1 MARR
+2 Plac Avesnes /S Helpe
+2 DATE 15 MAR 1921
+0 @F45@ FAM
+1 HUSB @I83@
+1 WIFE @I84@
+1 CHIL @I85@
+1 CHIL @I87@
+0 @F74@ FAM
+1 HUSB @I133@
+1 WIFE @I134@
+1 CHIL @I120@
+0 @F44@ FAM
+1 HUSB @I81@
+1 WIFE @I82@
+1 CHIL @I83@
+0 @F65@ FAM
+1 HUSB @I117@
+1 WIFE @I118@
+1 CHIL @I74@
+0 @F83@ FAM
+1 HUSB @I147@
+1 WIFE @I148@
+1 CHIL @I86@
+1 CHIL @I149@
+1 CHIL @I150@
+1 CHIL @I151@
+1 MARR
+2 Plac Fourmies
+2 DATE 06 JAN 1902
+0 @F182@ FAM
+1 HUSB @I283@
+1 WIFE @I284@
+1 CHIL @I98@
+1 MARR
+2 Plac Caudry
+2 DATE 07 APR 1824
+0 @F36@ FAM
+1 HUSB @I67@
+1 WIFE @I66@
+1 CHIL @I128@
+1 CHIL @I138@
+1 CHIL @I139@
+0 @F43@ FAM
+1 HUSB @I79@
+1 WIFE @I80@
+1 CHIL @I81@
+0 @F42@ FAM
+1 HUSB @I77@
+1 WIFE @I78@
+1 CHIL @I79@
+0 @F41@ FAM
+1 HUSB @I76@
+1 WIFE @I75@
+1 CHIL @I173@
+0 @F40@ FAM
+1 HUSB @I73@
+1 WIFE @I74@
+1 CHIL @I20@
+1 MARR Laboureur
+0 @F142@ FAM
+1 HUSB @I226@
+1 WIFE @I225@
+1 CHIL @I238@
+1 CHIL @I239@
+1 CHIL @I240@
+1 CHIL @I241@
+1 CHIL @I242@
+1 CHIL @I243@
+0 @F167@ FAM
+1 HUSB @I254@
+1 WIFE @I1561745555@
+1 CHIL @I97@
+1 MARR
+2 Plac Caudry
+2 DATE 16 OCT 1820
+0 @F80@ FAM
+1 HUSB @I142@
+1 WIFE @I141@
+1 CHIL @I78@
+0 @F181@ FAM
+1 HUSB @I281@
+1 WIFE @I282@
+1 CHIL @I279@
+0 @F82@ FAM
+1 HUSB @I145@
+1 WIFE @I146@
+1 CHIL @I6@
+1 MARR
+2 Plac Wignehies
+2 DATE 29 NOV 1837
+0 @F75@ FAM
+1 HUSB @I136@
+1 WIFE @I135@
+1 CHIL @I156@
+1 CHIL @I158@
+1 CHIL @I159@
+1 CHIL @I160@
+1 CHIL @I161@
+0 @F26@ FAM
+1 HUSB @I49@
+1 WIFE @I48@
+1 CHIL @I119@
+0 @F134@ FAM
+1 HUSB @I217@
+1 CHIL @I218@
+0 @F66@ FAM
+1 HUSB @I119@
+1 WIFE @I120@
+1 CHIL @I121@
+0 @F88@ FAM
+1 HUSB @I155@
+1 WIFE @I154@
+1 CHIL @I43@
+0 @F72@ FAM
+1 HUSB @I129@
+1 WIFE @I130@
+1 CHIL @I131@
+1 MARR
+2 Plac Féron
+2 DATE 28 JUN 1826
+0 @F171@ FAM
+1 HUSB @I261@
+1 WIFE @I262@
+1 CHIL @I259@
+0 @F16@ FAM
+1 WIFE @I30@
+0 @F87@ FAM
+1 HUSB @I152@
+1 WIFE @I153@
+1 CHIL @I106@
+0 @F15@ FAM
+1 HUSB @I28@
+1 WIFE @I29@
+1 CHIL @I30@
+1 MARR
+2 Plac St-Étienne
+0 @F14@ FAM
+1 HUSB @I26@
+1 WIFE @I27@
+1 CHIL @I2@
+1 MARR
+2 Plac Strasbourg
+2 DATE 22 DEC 1953
+0 @F13@ FAM
+1 HUSB @I24@
+1 WIFE @I1701708342@
+1 CHIL @I4@
+1 MARR
+2 Plac Lamothe-Capdeville
+2 DATE 03 DEC 1872
+0 @F11@ FAM
+1 HUSB @I22@
+1 WIFE @I21@
+1 CHIL @I77@
+0 @F10@ FAM
+1 HUSB @I20@
+1 WIFE @I19@
+1 CHIL @I22@
+1 CHIL @I75@
+0 @F9@ FAM
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I21@
+0 @F170@ FAM
+1 HUSB @I260@
+1 WIFE @I259@
+1 CHIL @I90@
+0 @F4@ FAM
+1 HUSB @I7@
+1 WIFE @I8@
+1 CHIL @I9@
+0 @F3@ FAM
+1 HUSB @I6@
+1 WIFE @I5@
+1 CHIL @I147@
+1 MARR
+2 Plac Glageon
+2 DATE 29 JAN 1870
+0 @F81@ FAM
+1 HUSB @I143@
+1 WIFE @I144@
+1 CHIL @I63@
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I3@
+1 CHIL @I26@
+1 MARR
+2 Plac Mirabel
+2 DATE 04 JAN 1912
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I109@
+1 CHIL @I113@
+1 MARR
+2 Plac Paris
+2 DATE 18 MAY 1991
+0 @F8@ FAM
+1 HUSB @I16@
+1 WIFE @I15@
+1 CHIL @I76@
+0 @F7@ FAM
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I17@
+0 @F6@ FAM
+1 HUSB @I11@
+1 WIFE @I12@
+1 CHIL @I19@
+0 @F61@ FAM
+1 HUSB @I112@
+1 WIFE @I111@
+1 CHIL @I206@
+0 @F5@ FAM
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I13@
+0 @F193@ FAM
+1 HUSB @I302@
+1 WIFE @I303@
+1 CHIL @I300@
+0 @F172@ FAM
+1 HUSB @I264@
+1 WIFE @I263@
+1 CHIL @I260@
+0 @F27@ FAM
+1 HUSB @I50@
+1 WIFE @I51@
+1 CHIL @I262@
+0 @F73@ FAM
+1 HUSB @I132@
+1 WIFE @I131@
+1 CHIL @I165@
+1 MARR
+2 Plac Fourmies
+2 DATE 25 MAY 1857
+0 @F192@ FAM
+1 HUSB @I300@
+1 WIFE @I301@
+1 CHIL @I295@
+0 @F191@ FAM
+1 HUSB @I298@
+1 WIFE @I299@
+1 CHIL @I296@
+0 @F189@ FAM
+1 HUSB @I296@
+1 WIFE @I295@
+1 CHIL @I197@
+1 CHIL @I297@
+0 @F188@ FAM
+1 HUSB @I293@
+1 WIFE @I294@
+1 CHIL @I264@
+1 CHIL @I292@
+0 @F186@ FAM
+1 HUSB @I291@
+1 CHIL @I104@
+0 @F185@ FAM
+1 HUSB @I289@
+1 WIFE @I290@
+1 CHIL @I287@
+0 @F183@ FAM
+1 HUSB @I285@
+1 WIFE @I286@
+1 CHIL @I284@
+1 MARR
+2 Plac Caudry
+2 DATE 24 JAN 1791
+0 @F174@ FAM
+1 HUSB @I267@
+1 WIFE @I268@
+1 CHIL @I265@
+0 @F25@ FAM
+1 HUSB @I46@
+1 WIFE @I47@
+1 CHIL @I48@
+0 @F184@ FAM
+1 HUSB @I287@
+1 WIFE @I288@
+1 CHIL @I195@
+1 MARR
+2 Plac Fourmies
+2 DATE 11 NOV 1857
+0 @F179@ FAM
+1 HUSB @I277@
+1 WIFE @I278@
+1 CHIL @I50@
+0 @F609648383@ FAM
+1 HUSB @I1557386281@
+1 WIFE @I1557386284@
+1 CHIL @I209@
+1 MARR
+2 Plac Grindorff-Bizing
+2 DATE 27 APR 1837
+0 @F611034011@ FAM
+1 HUSB @I1560807993@
+1 WIFE @I1560808029@
+1 CHIL @I178@
+0 @F611034083@ FAM
+1 HUSB @I1560808187@
+1 WIFE @I1560808195@
+1 CHIL @I1560808029@
+0 @F611117321@ FAM
+1 HUSB @I1561019496@
+1 WIFE @I1561215206@
+1 CHIL @I146@
+1 MARR
+2 Plac Wignehies
+2 DATE 05 MAY 1812
+0 @F611117567@ FAM
+1 HUSB @I1561020034@
+1 WIFE @I1561020035@
+1 CHIL @I132@
+1 MARR
+2 Plac Féron
+2 DATE 26 NOV 1828
+0 @F611117744@ FAM
+1 HUSB @I1561020445@
+1 WIFE @I1561020485@
+1 CHIL @I1561020034@
+0 @F611117925@ FAM
+1 HUSB @I1561020861@
+1 WIFE @I207@
+1 CHIL @I140@
+1 MARR
+2 Plac St-Hilaire /S Helpe
+2 DATE 31 JUL 1844
+0 @F611123459@ FAM
+1 HUSB @I1561034620@
+1 WIFE @I1561034629@
+1 CHIL @I1561034548@
+1 MARR
+2 Plac St-Aubin
+2 DATE 30 AUG 1848
+0 @F611123677@ FAM
+1 HUSB @I1561035112@
+1 WIFE @I1561035136@
+1 CHIL @I1561034629@
+1 MARR
+2 Plac St-Aubin
+2 DATE 20 SEP 1820
+0 @F611124030@ FAM
+1 HUSB @I1561035928@
+1 WIFE @I1561035983@
+1 CHIL @I1561020861@
+1 MARR
+2 Plac Sars-Poteries
+2 DATE 05 NOV 1807
+0 @F611124041@ FAM
+1 HUSB @I1561035955@
+1 WIFE @I1561035956@
+1 CHIL @I1561035928@
+0 @F611124204@ FAM
+1 HUSB @I1561036349@
+1 WIFE @I1561036376@
+1 CHIL @I1561035983@
+0 @F611125232@ FAM
+1 HUSB @I1561039421@
+1 WIFE @I1561145774@
+1 CHIL @I207@
+1 MARR
+2 Plac Haut-Lieu
+2 DATE 08 APR 1807
+0 @F611125421@ FAM
+1 HUSB @I1561039841@
+1 WIFE @I1561039866@
+1 CHIL @I1561039421@
+0 @F611125970@ FAM
+1 HUSB @I1561041125@
+1 WIFE @I1561041149@
+1 CHIL @I1561035136@
+1 MARR
+2 Plac St-Aubin
+2 DATE 29 JAN 1788
+0 @F611126486@ FAM
+1 HUSB @I1561042449@
+1 WIFE @I1561042466@
+1 CHIL @I1561034620@
+0 @F611147928@ FAM
+1 HUSB @I1561097832@
+1 WIFE @I1561097883@
+1 CHIL @I1561042466@
+0 @F611166698@ FAM
+1 HUSB @I1561146230@
+1 WIFE @I1561146231@
+1 CHIL @I5@
+1 CHIL @I1561146351@
+1 MARR
+2 Plac Glageon
+2 DATE 09 NOV 1842
+0 @F611166731@ FAM
+1 HUSB @I1561146303@
+1 WIFE @I1561146304@
+1 CHIL @I1561146231@
+0 @F611166850@ FAM
+1 HUSB @I1561146575@
+1 WIFE @I1561146609@
+1 CHIL @I1561146230@
+1 MARR
+2 Plac Glageon
+2 DATE 02 MAR 1813
+0 @F611166896@ FAM
+1 HUSB @I1561146712@
+1 WIFE @I1561146713@
+1 CHIL @I1561146609@
+0 @F611166912@ FAM
+1 HUSB @I1561146744@
+1 WIFE @I1561146745@
+1 CHIL @I1561146575@
+0 @F611167099@ FAM
+1 HUSB @I1561147175@
+1 WIFE @I1561147176@
+1 CHIL @I1561146744@
+0 @F611169822@ FAM
+1 HUSB @I1561152608@
+1 WIFE @I1561152622@
+1 CHIL @I163@
+0 @F611173803@ FAM
+1 HUSB @I1561162856@
+1 WIFE @I1561162862@
+1 CHIL @I129@
+1 MARR
+2 Plac Étrœungt
+2 DATE 16 SEP 1799
+0 @F611174116@ FAM
+1 HUSB @I1561163685@
+1 WIFE @I1561163686@
+1 CHIL @I1561162862@
+0 @F611197488@ FAM
+1 HUSB @I1561215474@
+1 CHIL @I1561019496@
+0 @F611197491@ FAM
+1 HUSB @I1561215483@
+1 WIFE @I1561215484@
+1 CHIL @I1561215206@
+0 @F611199661@ FAM
+1 HUSB @I1561220168@
+1 WIFE @I1561220220@
+1 CHIL @I157@
+1 MARR
+2 Plac Ohain
+2 DATE 22 SEP 1779
+0 @F611206990@ FAM
+1 HUSB @I1561238116@
+1 WIFE @I157@
+1 MARR
+2 Plac Ohain
+2 DATE 12 FEB 1812
+0 @F611207330@ FAM
+1 HUSB @I1561238952@
+1 WIFE @I1561238976@
+1 CHIL @I283@
+0 @F611237292@ FAM
+1 HUSB @I1561302962@
+1 CHIL @I1561238976@
+0 @F611240968@ FAM
+1 HUSB @I1561313513@
+1 WIFE @I1561313529@
+1 CHIL @I177@
+0 @F611241095@ FAM
+1 HUSB @I1561313822@
+1 WIFE @I1561313823@
+1 CHIL @I288@
+1 MARR
+2 Plac Fourmies
+2 DATE 02 OCT 1821
+0 @F611241171@ FAM
+1 HUSB @I1561314012@
+1 WIFE @I1561314013@
+1 CHIL @I1561313823@
+1 MARR
+2 Plac Wignehies
+2 DATE 21 JUN 1796
+0 @F611241173@ FAM
+1 HUSB @I1561314018@
+1 WIFE @I1561314019@
+1 CHIL @I1561313822@
+1 MARR
+2 Plac Fourmies
+2 DATE 21 AUG 1786
+0 @F611241476@ FAM
+1 HUSB @I1561314748@
+1 WIFE @I1561314774@
+1 CHIL @I205@
+1 MARR
+2 Plac Wignehies
+2 DATE 01 OCT 1845
+0 @F611241925@ FAM
+1 HUSB @I1561315726@
+1 WIFE @I1561315743@
+1 CHIL @I289@
+0 @F611242067@ FAM
+1 HUSB @I1561316051@
+1 WIFE @I1561316065@
+1 CHIL @I290@
+0 @F611252381@ FAM
+1 HUSB @I1561341724@
+1 WIFE @I1561341736@
+1 CHIL @I1561316065@
+0 @F611256858@ FAM
+1 HUSB @I1561355911@
+1 WIFE @I1561356051@
+1 CHIL @I204@
+1 MARR
+2 Plac Sains-Richaumont
+2 DATE 26 FEB 1829
+0 @F611257166@ FAM
+1 HUSB @I1561356633@
+1 WIFE @I1561404827@
+1 CHIL @I1561356051@
+1 MARR
+2 Plac Sains-Richaumont
+2 DATE 31 JUL 1805
+0 @F611257337@ FAM
+1 HUSB @I1561356997@
+1 WIFE @I1561380685@
+1 CHIL @I1561314748@
+1 MARR
+2 Plac Rocquigny
+2 DATE 03 JAN 1806
+0 @F611270344@ FAM
+1 HUSB @I1561389757@
+1 WIFE @I1561389776@
+1 CHIL @I1561356997@
+1 MARR
+2 Plac Rocquigny
+2 DATE 03 MAY 1774
+0 @F611273294@ FAM
+1 HUSB @I1561396924@
+1 WIFE @I1561396955@
+1 CHIL @I1561380685@
+0 @F611276311@ FAM
+1 HUSB @I1561404720@
+1 WIFE @I1561404748@
+1 CHIL @I1561355911@
+0 @F611276511@ FAM
+1 HUSB @I1561405136@
+1 WIFE @I1561405159@
+1 CHIL @I1561404827@
+0 @F611407737@ FAM
+1 HUSB @I1561719768@
+1 WIFE @I1561719779@
+1 CHIL @I1561356633@
+0 @F611417111@ FAM
+1 HUSB @I1561743833@
+1 WIFE @I1561744157@
+1 CHIL @I256@
+0 @F611418433@ FAM
+1 HUSB @I1561747205@
+1 WIFE @I1561747237@
+1 CHIL @I1561745555@
+1 MARR
+2 Plac Caudry
+2 DATE 11 JAN 1791
+0 @F611418752@ FAM
+1 HUSB @I1561747922@
+1 CHIL @I1560807993@
+0 @F611418948@ FAM
+1 HUSB @I1561748371@
+1 WIFE @I1561748372@
+1 CHIL @I1561314019@
+1 MARR
+2 Plac Fourmies
+2 DATE 09 SEP 1750
+0 @F611418968@ FAM
+1 HUSB @I1561748422@
+1 WIFE @I1561748439@
+1 CHIL @I1561314018@
+0 @F611419010@ FAM
+1 HUSB @I1561748503@
+1 WIFE @I1561748504@
+1 CHIL @I1561748371@
+0 @F641759030@ FAM
+1 HUSB @I1637339814@
+1 CHIL @I72@
+0 @F641759375@ FAM
+1 HUSB @I1637340580@
+1 WIFE @I1637340581@
+1 CHIL @I15@
+0 @F641762182@ FAM
+1 HUSB @I1637346983@
+1 WIFE @I1637346997@
+1 CHIL @I1561162856@
+0 @F642676803@ FAM
+1 HUSB @I1639537140@
+1 CHIL @I130@
+0 @F642676842@ FAM
+1 HUSB @I1639537230@
+1 WIFE @I1639537275@
+1 CHIL @I1639537140@
+0 @F642686804@ FAM
+1 HUSB @I260@
+1 MARR
+2 Plac Fourmies
+2 DATE 24 JUL 1911
+0 @F642809490@ FAM
+1 HUSB @I1639873651@
+1 WIFE @I1639879266@
+1 CHIL @I1639869503@
+1 MARR
+2 Plac Montricoux
+2 DATE 10 JAN 1796
+0 @F642839722@ FAM
+1 HUSB @I1639954746@
+1 WIFE @I1639954758@
+1 CHIL @I1639949155@
+1 MARR
+2 Plac St-Étienne-De-Tulmont
+2 DATE 21 MAY 1804
+0 @F666570369@ FAM
+1 HUSB @I1699932444@
+1 WIFE @I1699932445@
+1 CHIL @I1557386281@
+0 @F666570401@ FAM
+1 HUSB @I1699932518@
+1 WIFE @I1699932519@
+1 CHIL @I1699932445@
+0 @F666570456@ FAM
+1 HUSB @I1699932667@
+1 WIFE @I1699932668@
+1 CHIL @I1699932444@
+0 @F666758642@ FAM
+1 HUSB @I1700384502@
+1 WIFE @I1700384624@
+1 CHIL @I28@
+1 MARR
+2 Plac Joyeuse
+2 DATE 23 JAN 1837
+0 @F666786733@ FAM
+1 HUSB @I1700454035@
+1 WIFE @I1700454071@
+1 CHIL @I3@
+1 MARR
+2 Plac Mirabel
+2 DATE 09 MAY 1892
+1 MARB
+2 Plac Mirabel
+2 DATE 17 APR 1892
+0 @F666804813@ FAM
+1 HUSB @I1700499928@
+1 WIFE @I1700499942@
+1 CHIL @I125@
+1 MARR
+2 Plac Écully
+2 DATE 09 DEC 1851
+0 @F666837662@ FAM
+1 HUSB @I1700581014@
+1 WIFE @I1700581023@
+1 CHIL @I1700499928@
+0 @F666837732@ FAM
+1 HUSB @I1700581161@
+1 WIFE @I1700581186@
+1 CHIL @I1700499942@
+0 @F666932361@ FAM
+1 HUSB @I1700843741@
+1 WIFE @I1700844492@
+1 CHIL @I1700581014@
+1 MARR
+2 Plac St-Genis-Les-Ollières
+2 DATE 06 FEB 1787
+0 @F667019444@ FAM
+1 HUSB @I1701074489@
+1 WIFE @I1701081625@
+1 CHIL @I1700844492@
+1 MARR
+2 Plac St-Genis-Les-Ollières
+2 DATE 23 MAY 1762
+0 @F667027348@ FAM
+1 HUSB @I1701097310@
+1 WIFE @I1701097748@
+1 CHIL @I1701074489@
+1 MARR
+2 Plac St-Genis-Les-Ollières
+2 DATE 15 FEB 1735
+0 @F667047486@ FAM
+1 HUSB @I1701152237@
+1 WIFE @I1701152279@
+1 CHIL @I1700454035@
+1 MARB
+2 Plac St-Vincent-D'Autéjac
+2 DATE 09 FEB 1862
+0 @F667198687@ FAM
+1 HUSB @I1701526563@
+1 WIFE @I1639869503@
+1 CHIL @I24@
+1 MARR
+2 Plac Montricoux
+0 @F667293758@ FAM
+1 HUSB @I1701753894@
+1 WIFE @I1701753932@
+1 CHIL @I1700454071@
+1 MARR
+2 Plac Mirabel
+2 DATE 18 FEB 1857
+1 MARB
+2 Plac Mirabel
+2 DATE 15 FEB 1857
+0 @F667294137@ FAM
+1 HUSB @I1701754769@
+1 WIFE @I1701754792@
+1 CHIL @I1701753894@
+0 @F667294156@ FAM
+1 HUSB @I1701754819@
+1 WIFE @I1701754848@
+1 CHIL @I1701753932@
+1 MARR
+2 Plac Réalville
+2 DATE 24 FEB 1832
+1 MARB
+2 Plac Mirabel
+2 DATE 19 FEB 1832
+0 @F667407034@ FAM
+1 HUSB @I1702054466@
+1 WIFE @I1702054480@
+1 CHIL @I1701152237@
+0 @F667407082@ FAM
+1 HUSB @I1702054567@
+1 WIFE @I1702054575@
+1 CHIL @I1701152279@
+0 @F667483750@ FAM
+1 HUSB @I24@
+1 WIFE @I1702241298@
+1 MARR
+2 Plac Lamothe-Capdeville
+2 DATE 26 MAY 1864
+0 @F667483804@ FAM
+1 HUSB @I1639949119@
+1 WIFE @I1639949155@
+1 CHIL @I1701708342@
+1 CHIL @I1702241298@
+1 MARR
+2 Plac Lamothe-Capdeville
+2 DATE 16 DEC 1829
+0 @F667507514@ FAM
+1 HUSB @I1702314456@
+1 WIFE @I1702314488@
+1 CHIL @I1700384502@
+0 @F667510811@ FAM
+1 HUSB @I1702322638@
+1 WIFE @I1702322680@
+1 CHIL @I1700384624@
+0 @F668106338@ FAM
+1 HUSB @I1703825186@
+1 WIFE @I1703825187@
+1 CHIL @I313@
+1 MARR
+2 Plac Lay-St-Christophe
+2 DATE 23 JAN 1839
+0 @F668127875@ FAM
+1 HUSB @I1703877882@
+1 WIFE @I1703877883@
+1 CHIL @I1703825186@
+0 @F668127877@ FAM
+1 HUSB @I1703877891@
+1 WIFE @I1703877893@
+1 CHIL @I1703825187@
+1 MARR
+2 Plac Lay-St-Christophe
+2 DATE 17 JAN 1804
+0 @F668143030@ FAM
+1 HUSB @I1703917304@
+1 WIFE @I1703917434@
+1 CHIL @I1557386284@
+1 MARR
+2 Plac Grindorff-Bizing
+2 DATE 08 JAN 1813
+0 @F668143107@ FAM
+1 HUSB @I1703917527@
+1 WIFE @I1703917581@
+1 CHIL @I1703917304@
+1 MARR
+2 Plac Halstroff
+2 DATE 21 APR 1789
+0 @F668143147@ FAM
+1 HUSB @I1703917624@
+1 WIFE @I1703917648@
+1 CHIL @I1703917434@
+1 MARR
+2 Plac Halstroff
+2 DATE 23 JUN 1783
+0 @F668151249@ FAM
+1 HUSB @I1703939112@
+1 WIFE @I1703939133@
+1 CHIL @I1703917527@
+0 @F668152242@ FAM
+1 HUSB @I1703941403@
+1 WIFE @I1703941404@
+1 CHIL @I1703939112@
+0 @F668159501@ FAM
+1 HUSB @I1703960539@
+1 WIFE @I1703960540@
+1 CHIL @I316@
+1 MARR
+2 Plac Nancy
+2 DATE 05 JUN 1759
+0 @F668163536@ FAM
+1 HUSB @I1703972368@
+1 WIFE @I1703972398@
+1 CHIL @I1639949119@
+0 @F668321105@ FAM
+1 HUSB @I1704315667@
+1 WIFE @I1704315828@
+1 CHIL @I1639954758@
+0 @F668365448@ FAM
+1 HUSB @I1704417468@
+1 WIFE @I1704417477@
+1 CHIL @I1701754819@
+0 @F668441608@ FAM
+1 HUSB @I1704639373@
+1 WIFE @I1704639382@
+1 CHIL @I1639954746@
+1 MARR
+2 Plac Albias
+2 DATE 03 JUN 1783
+0 @F668497123@ FAM
+1 HUSB @I1704771989@
+1 WIFE @I1704772007@
+1 CHIL @I1639879266@
+0 @F668502538@ FAM
+1 HUSB @I1704785286@
+1 WIFE @I1704785287@
+1 CHIL @I1703917648@
+0 @F675063031@ FAM
+1 HUSB @I1721204253@
+1 WIFE @I1721204279@
+1 CHIL @I315@
+0 @F675108604@ FAM
+1 HUSB @I1721317266@
+1 WIFE @I1721317267@
+1 CHIL @I317@
+0 @F675171160@ FAM
+1 HUSB @I1721490723@
+1 WIFE @I1703917434@
+1 MARR
+2 Plac Grindorff-Bizing
+2 DATE 12 JUN 1827
+0 TRLR
