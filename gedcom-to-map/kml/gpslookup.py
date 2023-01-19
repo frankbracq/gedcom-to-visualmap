@@ -163,12 +163,17 @@ class GEDComGPSLookup:
             return
         # Nothing to save ?? and has not changed
         newMD5 = hashlib.md5()   
-        for a in range(0,len(self.addresslist)):
-          if self.addresslist[a]['name'] !='': 
-            newMD5.update((self.addresslist[a]['name'] +  
-                         self.addresslist[a]['alt'] +  
-                         str(self.addresslist[a]['lat']) +  
-                         str(self.addresslist[a]['long'])).encode(errors='ignore'))
+        # BUGFIX 2: orgMD5 can be None as well. Initiate it in such a case.
+        if not self.orgMD5:
+            self.orgMD5 = hashlib.md5()
+        # BUGFIX 1: addresslist can be None. Skip it then.    
+        if self.addresslist:
+            for a in range(0,len(self.addresslist)):
+              if self.addresslist[a]['name'] !='': 
+                newMD5.update((self.addresslist[a]['name'] +  
+                             self.addresslist[a]['alt'] +  
+                             str(self.addresslist[a]['lat']) +  
+                             str(self.addresslist[a]['long'])).encode(errors='ignore'))
         if newMD5.hexdigest() == self.orgMD5.hexdigest():
             print("GPS Cache has not changed")
             return
